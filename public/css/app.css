@@ -5334,17 +5334,25 @@ Example showing how to change the color/size of the icons:
 .fill-color10 {
   fill: #fff; }
 
+* {
+  box-sizing: border-box; }
+
 .viewer {
-  border-radius: 10px;
   color: #10171C;
   background: white;
   margin: 0 auto;
   padding: 15px;
-  box-shadow: 0px 0px 52px 1px rgba(0, 0, 0, 0.75); }
+  box-shadow: 0px 0px 52px 1px rgba(0, 0, 0, 0.75);
+  width: 100%; }
 
 @media (min-width: 600px) {
+  body {
+    padding: 50px; }
   .viewer {
-    width: 80%; } }
+    border-radius: 10px;
+    width: 80%; }
+  .ts3_viewer.server {
+    border-radius: 10px 10px 0 0; } }
 
 @media (min-width: 900px) {
   .viewer {
@@ -5410,7 +5418,6 @@ Example showing how to change the color/size of the icons:
 
 .ts3_viewer.server {
   margin: -15px -15px 0 -15px;
-  border-radius: 10px 10px 0 0;
   font-size: 22px;
   padding: 15px;
   background-color: #10171C;
@@ -5439,7 +5446,6 @@ li svg.flag {
 body {
   background: url(/img/18.jpg);
   background-size: cover;
-  font: normal 100 17px/1.0 "Roboto", Sans-Serif;
-  padding: 50px; }
+  font: normal 100 17px/1.0 "Roboto", Sans-Serif; }
 
 /*# sourceMappingURL=app.css.map */

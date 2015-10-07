@@ -1,15 +1,26 @@
+* {
+	box-sizing: border-box;
+}
 .viewer {
-	border-radius: 10px;
     color: $text-color;
     background: $background;
     margin: 0 auto;
     padding: 15px;
     box-shadow: 0px 0px 52px 1px rgba(0,0,0,0.75);
+    width: 100%;
 }
 
 @media (min-width: 600px) {
+	body {
+    	padding:50px;
+	}
+
 	.viewer {
+		border-radius: 10px;
 		width: 80%;
+	}
+	.ts3_viewer.server {
+		border-radius: 10px 10px 0 0;
 	}
 }
 
@@ -77,7 +88,6 @@
 
 .ts3_viewer.server {
 	margin: -15px -15px 0 -15px;
-	border-radius: 10px 10px 0 0;
 	font-size: 22px;
 	padding: 15px;
 	background-color: $text-color;
