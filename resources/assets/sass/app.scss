@@ -1,0 +1,18 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$background: #2E414F;
+$background: white;
+$text-color: #A4B5C2;
+$text-color: #10171C;
+
+@import "icons/flags";
+@import "icons/teamspeak3";
+@import "modules/viewer";
+
+body {
+	background: url(/img/18.jpg);
+	background-size: cover;
+    font:normal 100 17px/1.0 'Roboto',Sans-Serif;
+    padding:50px;
+}
+

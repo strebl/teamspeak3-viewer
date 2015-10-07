@@ -1,0 +1,112 @@
+.viewer {
+	border-radius: 10px;
+    color: $text-color;
+    background: $background;
+    margin: 0 auto;
+    padding: 15px;
+    box-shadow: 0px 0px 52px 1px rgba(0,0,0,0.75);
+}
+
+@media (min-width: 600px) {
+	.viewer {
+		width: 80%;
+	}
+}
+
+@media (min-width: 900px) {
+	.viewer {
+		width: 60%;
+	}
+}
+
+@media (min-width: 1100px) {
+	.viewer {
+		width: 50%;
+	}
+}
+
+.viewer ul {
+    margin:0 0 0 1em; /* indentation */
+    padding: 0;
+    list-style:none;
+    position:relative;
+}
+
+.viewer ul {margin-left:0.5em} /* (indentation/2) */
+
+.viewer ul:before {
+    content:"";
+    display:block;
+    width:0;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    border-left:1px solid;
+}
+
+.viewer li {
+    margin:0;
+    padding:0 1.5em; /* indentation + .5em */
+    line-height:2em; /* default list item's `line-height` */
+    position:relative;
+}
+
+.viewer li:before {
+    content:"";
+    display:block;
+    width:10px; /* same with indentation */
+    height:0;
+    border-top:1px solid;
+    margin-top:-1px; /* border top width */
+    position:absolute;
+    top:1em; /* (line-height/2) */
+    left:0;
+}
+
+.viewer li:last-child:before {
+    background:$background; /* same with body background */
+    height:auto;
+    top:1em; /* (line-height/2) */
+    bottom:0;
+}
+
+.viewer>ul:first-of-type {
+	padding-top: 20px;
+}
+
+.ts3_viewer.server {
+	margin: -15px -15px 0 -15px;
+	border-radius: 10px 10px 0 0;
+	font-size: 22px;
+	padding: 15px;
+	background-color: $text-color;
+	color: white;
+
+	svg {
+		color: white;
+		margin-right: 10px;
+	}
+}
+
+.ts3_viewer.client {
+	font-weight: 400;
+}
+
+li svg.ts3 {
+	color: #2c3e50;
+	font-size: 14px;
+}
+
+li svg.flag {
+	font-size: 22px;
+	vertical-align: text-bottom;
+}
+
+.suffix .flag {
+	margin-left: 6px;
+}
+
+.suffix.channel .ts3 {
+	margin-left: 6px;
+}

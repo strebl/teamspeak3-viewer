@@ -1,0 +1,46 @@
+.ts3 {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+}
+
+/* =======================================================================================
+Example showing how to change the color/size of the icons:
+.ts3-name {
+	font-size: 32px; // works because "width" & "height" were set using em units
+	color: red; // works for single-colored icons, because "fill" was set to "currentColor"
+}
+======================================================================================== */
+.fill-color1 {
+    fill: #000;
+}
+.fill-color2 {
+    fill: currentColor;
+    //fill: #2c3e50;
+    //fill: #ffffff;
+}
+.fill-color3 {
+    fill: #004d86;
+}
+.fill-color4 {
+    fill: #d35400;
+}
+.fill-color5 {
+    fill: #f1c40f;
+}
+.fill-color6 {
+    fill: #3498db;
+}
+.fill-color7 {
+    fill: #6792b7;
+}
+.fill-color8 {
+    fill: #e74c3c;
+}
+.fill-color9 {
+    fill: #5cb3ec;
+}
+.fill-color10 {
+    fill: #fff;
+}
