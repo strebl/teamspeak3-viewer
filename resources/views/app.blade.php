@@ -62,6 +62,8 @@
     {{--<script src="/js/flat-ui-pro.min.js"></script>--}}
     {{--<script src="/js/sweet-alert.min.js"></script>--}}
     @yield('javascript')
+    <script type="text/javascript">var SC_RumID = 1758;</script>
+    <script type="text/javascript" async src="https://www.statuscake.com/App/RUM/embed.js"></script>
 
 </body>
 </html>
