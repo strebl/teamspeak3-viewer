@@ -2,8 +2,8 @@
 
 namespace Strebl\Http\Controllers\Auth;
 
-use Strebl\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
+use Strebl\Http\Controllers\Controller;
 
 class PasswordController extends Controller
 {
