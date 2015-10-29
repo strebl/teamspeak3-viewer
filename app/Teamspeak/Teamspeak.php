@@ -2,7 +2,7 @@
 
 namespace Strebl\Teamspeak;
 
-use \Teamspeak3_Viewer_ModernHtml;
+use Teamspeak3_Viewer_ModernHtml;
 
 class Teamspeak
 {
@@ -13,6 +13,7 @@ class Teamspeak
 
     /**
      * Teamspeak constructor.
+     *
      * @param \TeamSpeak3_Node_Host $host
      */
     public function __construct(\TeamSpeak3_Node_Host $host)

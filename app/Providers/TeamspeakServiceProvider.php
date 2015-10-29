@@ -2,8 +2,8 @@
 
 namespace Strebl\Providers;
 
-use Strebl\Teamspeak\Teamspeak;
 use Illuminate\Support\ServiceProvider;
+use Strebl\Teamspeak\Teamspeak;
 use TeamSpeak3;
 
 class TeamspeakServiceProvider extends ServiceProvider
@@ -21,14 +21,13 @@ class TeamspeakServiceProvider extends ServiceProvider
 
     protected function registerTeamspeakFramework()
     {
-        $this->app->singleton(TeamSpeak3::class, function ($app)
-        {
+        $this->app->singleton(TeamSpeak3::class, function ($app) {
             $server = env('TEAMSPEAK_SERVER');
             $username = env('TEAMSPEAK_SERVERQUERY_USERNAME');
             $password = env('TEAMSPEAK_SERVERQUERY_PASSWORD');
             $port = env('TEAMSPEAK_SERVERQUERY_PORT');
 
-            return TeamSpeak3::factory('serverquery://' . $username . ':' . $password . '@' . $server . ':' . $port . '/');
+            return TeamSpeak3::factory('serverquery://'.$username.':'.$password.'@'.$server.':'.$port.'/');
         });
 
         $this->app->alias(TeamSpeak3::class, 'teamspeak.framework');
@@ -36,8 +35,7 @@ class TeamspeakServiceProvider extends ServiceProvider
 
     private function registerTeamspeak()
     {
-        $this->app->singleton(Teamspeak::class, function ($app)
-        {
+        $this->app->singleton(Teamspeak::class, function ($app) {
             return new Teamspeak($app['teamspeak.framework']);
         });
 
