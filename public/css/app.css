@@ -2,7 +2,8 @@
   display: inline-block;
   width: 1em;
   height: 1em;
-  fill: currentColor; }
+  fill: currentColor;
+}
 
 /* =======================================================================================
 Example showing how to change the color/size of the icons:
@@ -11,5291 +12,8198 @@ Example showing how to change the color/size of the icons:
 	color: red; // works for single-colored icons, because "fill" was set to "currentColor"
 }
 ======================================================================================== */
+
 .flag-ad {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ad .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-ad .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-ad .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-ae {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ae .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-ae .path2 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-ae .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-ae .path4 {
-  fill: rgba(172, 174, 176, 0.71); }
+  fill: rgba(172, 174, 176, 0.71);
+}
 
 #flag-ae .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-ae .path6 {
-  fill: rgba(17, 19, 22, 0.27); }
+  fill: rgba(17, 19, 22, 0.27);
+}
 
 .flag-af {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-af .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-af .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-af .path3 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-af .path4, #flag-af .path5, #flag-af .path6, #flag-af .path7, #flag-af .path8, #flag-af .path9, #flag-af .path10, #flag-af .path11, #flag-af .path12, #flag-af .path13, #flag-af .path14, #flag-af .path15, #flag-af .path16, #flag-af .path17 {
-  fill: #fff; }
+#flag-af .path4,
+#flag-af .path5,
+#flag-af .path6,
+#flag-af .path7,
+#flag-af .path8,
+#flag-af .path9,
+#flag-af .path10,
+#flag-af .path11,
+#flag-af .path12,
+#flag-af .path13,
+#flag-af .path14,
+#flag-af .path15,
+#flag-af .path16,
+#flag-af .path17 {
+  fill: #fff;
+}
 
 .flag-ag {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ag .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-ag .path2, #flag-ag .path3 {
-  fill: #ed5565; }
+#flag-ag .path2,
+#flag-ag .path3 {
+  fill: #ed5565;
+}
 
 #flag-ag .path4 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-ag .path5 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-ag .path6 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-al {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-al .path1, #flag-al .path2, #flag-al .path3 {
-  fill: #ed5565; }
+#flag-al .path1,
+#flag-al .path2,
+#flag-al .path3 {
+  fill: #ed5565;
+}
 
 #flag-al .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-am {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-am .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-am .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-am .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-ar {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ar .path1, #flag-ar .path2 {
-  fill: #8cbae2; }
+#flag-ar .path1,
+#flag-ar .path2 {
+  fill: #8cbae2;
+}
 
 #flag-ar .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-ar .path4 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 .flag-at {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-at .path1, #flag-at .path2 {
-  fill: #ed5565; }
+#flag-at .path1,
+#flag-at .path2 {
+  fill: #ed5565;
+}
 
 #flag-at .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-au {
-  width: 1.4873046875em; }
+  width: 1.4873046875em;
+}
 
 #flag-au .path1 {
-  fill: rgba(82, 77, 113, 0.64); }
+  fill: rgba(82, 77, 113, 0.64);
+}
 
-#flag-au .path2, #flag-au .path3, #flag-au .path4, #flag-au .path5, #flag-au .path6 {
-  fill: #4758a9; }
+#flag-au .path2,
+#flag-au .path3,
+#flag-au .path4,
+#flag-au .path5,
+#flag-au .path6 {
+  fill: #4758a9;
+}
 
-#flag-au .path7, #flag-au .path8, #flag-au .path9, #flag-au .path10, #flag-au .path11, #flag-au .path12, #flag-au .path13, #flag-au .path14, #flag-au .path15, #flag-au .path16, #flag-au .path17, #flag-au .path18 {
-  fill: #fff; }
+#flag-au .path7,
+#flag-au .path8,
+#flag-au .path9,
+#flag-au .path10,
+#flag-au .path11,
+#flag-au .path12,
+#flag-au .path13,
+#flag-au .path14,
+#flag-au .path15,
+#flag-au .path16,
+#flag-au .path17,
+#flag-au .path18 {
+  fill: #fff;
+}
 
 #flag-au .path19 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-au .path20 {
-  fill: rgba(84, 79, 116, 0.65); }
+  fill: rgba(84, 79, 116, 0.65);
+}
 
 #flag-au .path21 {
-  fill: rgba(18, 23, 45, 0.27); }
+  fill: rgba(18, 23, 45, 0.27);
+}
 
 .flag-az {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-az .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-az .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-az .path3, #flag-az .path4 {
-  fill: #fff; }
+#flag-az .path3,
+#flag-az .path4 {
+  fill: #fff;
+}
 
 #flag-az .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-ba {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ba .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-ba .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
-#flag-ba .path3, #flag-ba .path4, #flag-ba .path5, #flag-ba .path6, #flag-ba .path7, #flag-ba .path8, #flag-ba .path9, #flag-ba .path10 {
-  fill: #fff; }
+#flag-ba .path3,
+#flag-ba .path4,
+#flag-ba .path5,
+#flag-ba .path6,
+#flag-ba .path7,
+#flag-ba .path8,
+#flag-ba .path9,
+#flag-ba .path10 {
+  fill: #fff;
+}
 
 .flag-bb {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-bb .path1, #flag-bb .path2 {
-  fill: #4758a9; }
+#flag-bb .path1,
+#flag-bb .path2 {
+  fill: #4758a9;
+}
 
 #flag-bb .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-bb .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-bd {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-bd .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-bd .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-be {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-be .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-be .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-be .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-bf {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-bf .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-bf .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-bf .path3 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-bg {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-bg .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-bg .path2 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-bg .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-bh {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-bh .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-bh .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-bi {
-  width: 1.4697265625em; }
+  width: 1.4697265625em;
+}
 
 #flag-bi .path1 {
-  fill: rgba(47, 17, 20, 0.2); }
+  fill: rgba(47, 17, 20, 0.2);
+}
 
-#flag-bi .path2, #flag-bi .path3, #flag-bi .path4, #flag-bi .path5, #flag-bi .path6 {
-  fill: #ed5565; }
+#flag-bi .path2,
+#flag-bi .path3,
+#flag-bi .path4,
+#flag-bi .path5,
+#flag-bi .path6 {
+  fill: #ed5565;
+}
 
 #flag-bi .path7 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-bi .path8, #flag-bi .path9 {
-  fill: #52c162; }
+#flag-bi .path8,
+#flag-bi .path9 {
+  fill: #52c162;
+}
 
 #flag-bi .path10 {
-  fill: rgba(4, 11, 5, 0.06); }
+  fill: rgba(4, 11, 5, 0.06);
+}
 
 #flag-bi .path11 {
-  fill: rgba(13, 5, 5, 0.06); }
+  fill: rgba(13, 5, 5, 0.06);
+}
 
 .flag-bj {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-bj .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-bj .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-bj .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-bn {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
-#flag-bn .path1, #flag-bn .path2 {
-  fill: #ffce54; }
+#flag-bn .path1,
+#flag-bn .path2 {
+  fill: #ffce54;
+}
 
-#flag-bn .path3, #flag-bn .path4, #flag-bn .path5, #flag-bn .path6 {
-  fill: #f5f7fa; }
+#flag-bn .path3,
+#flag-bn .path4,
+#flag-bn .path5,
+#flag-bn .path6 {
+  fill: #f5f7fa;
+}
 
-#flag-bn .path7, #flag-bn .path8 {
-  fill: rgba(30, 24, 9, 0.12); }
+#flag-bn .path7,
+#flag-bn .path8 {
+  fill: rgba(30, 24, 9, 0.12);
+}
 
-#flag-bn .path9, #flag-bn .path10, #flag-bn .path11 {
-  fill: #ed5565; }
+#flag-bn .path9,
+#flag-bn .path10,
+#flag-bn .path11 {
+  fill: #ed5565;
+}
 
 #flag-bn .path12 {
-  fill: rgba(7, 8, 9, 0.12); }
+  fill: rgba(7, 8, 9, 0.12);
+}
 
-#flag-bn .path13, #flag-bn .path14, #flag-bn .path15, #flag-bn .path16 {
-  fill: #434a54; }
+#flag-bn .path13,
+#flag-bn .path14,
+#flag-bn .path15,
+#flag-bn .path16 {
+  fill: #434a54;
+}
 
 #flag-bn .path17 {
-  fill: rgba(28, 29, 29, 0.12); }
+  fill: rgba(28, 29, 29, 0.12);
+}
 
 #flag-bn .path18 {
-  fill: rgba(17, 13, 5, 0.07); }
+  fill: rgba(17, 13, 5, 0.07);
+}
 
 .flag-bo {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-bo .path1, #flag-bo .path2 {
-  fill: #ed5565; }
+#flag-bo .path1,
+#flag-bo .path2 {
+  fill: #ed5565;
+}
 
 #flag-bo .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-bo .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-br {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-br .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-br .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-br .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-br .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-bs {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-bs .path1, #flag-bs .path2 {
-  fill: #3bafda; }
+#flag-bs .path1,
+#flag-bs .path2 {
+  fill: #3bafda;
+}
 
 #flag-bs .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-bs .path4 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-bt {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-bt .path1, #flag-bt .path2, #flag-bt .path3, #flag-bt .path4 {
-  fill: #f6d660; }
+#flag-bt .path1,
+#flag-bt .path2,
+#flag-bt .path3,
+#flag-bt .path4 {
+  fill: #f6d660;
+}
 
-#flag-bt .path5, #flag-bt .path6 {
-  fill: #ed5565; }
+#flag-bt .path5,
+#flag-bt .path6 {
+  fill: #ed5565;
+}
 
 #flag-bt .path7 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-bw {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-bw .path1, #flag-bw .path2 {
-  fill: #3bafda; }
+#flag-bw .path1,
+#flag-bw .path2 {
+  fill: #3bafda;
+}
 
-#flag-bw .path3, #flag-bw .path4 {
-  fill: #f5f7fa; }
+#flag-bw .path3,
+#flag-bw .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-bw .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-by {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-by .path1 {
-  fill: rgba(173, 63, 75, 0.73); }
+  fill: rgba(173, 63, 75, 0.73);
+}
 
-#flag-by .path2, #flag-by .path3, #flag-by .path4, #flag-by .path5, #flag-by .path6, #flag-by .path7, #flag-by .path8, #flag-by .path9, #flag-by .path10, #flag-by .path11, #flag-by .path12, #flag-by .path13, #flag-by .path14, #flag-by .path15, #flag-by .path16, #flag-by .path17, #flag-by .path18, #flag-by .path19, #flag-by .path20, #flag-by .path21, #flag-by .path22, #flag-by .path23, #flag-by .path24, #flag-by .path25, #flag-by .path26, #flag-by .path27, #flag-by .path28, #flag-by .path29, #flag-by .path30, #flag-by .path31, #flag-by .path32, #flag-by .path33, #flag-by .path34 {
-  fill: #f5f7fa; }
+#flag-by .path2,
+#flag-by .path3,
+#flag-by .path4,
+#flag-by .path5,
+#flag-by .path6,
+#flag-by .path7,
+#flag-by .path8,
+#flag-by .path9,
+#flag-by .path10,
+#flag-by .path11,
+#flag-by .path12,
+#flag-by .path13,
+#flag-by .path14,
+#flag-by .path15,
+#flag-by .path16,
+#flag-by .path17,
+#flag-by .path18,
+#flag-by .path19,
+#flag-by .path20,
+#flag-by .path21,
+#flag-by .path22,
+#flag-by .path23,
+#flag-by .path24,
+#flag-by .path25,
+#flag-by .path26,
+#flag-by .path27,
+#flag-by .path28,
+#flag-by .path29,
+#flag-by .path30,
+#flag-by .path31,
+#flag-by .path32,
+#flag-by .path33,
+#flag-by .path34 {
+  fill: #f5f7fa;
+}
 
 #flag-by .path35 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-by .path36 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-by .path37 {
-  fill: rgba(152, 74, 74, 0.73); }
+  fill: rgba(152, 74, 74, 0.73);
+}
 
 .flag-bz {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-bz .path1, #flag-bz .path2 {
-  fill: #ed5565; }
+#flag-bz .path1,
+#flag-bz .path2 {
+  fill: #ed5565;
+}
 
 #flag-bz .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-bz .path4, #flag-bz .path5 {
-  fill: #f5f7fa; }
+#flag-bz .path4,
+#flag-bz .path5 {
+  fill: #f5f7fa;
+}
 
 #flag-bz .path6 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-bz .path7 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-ca {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ca .path1, #flag-ca .path2, #flag-ca .path3 {
-  fill: #ed5565; }
+#flag-ca .path1,
+#flag-ca .path2,
+#flag-ca .path3 {
+  fill: #ed5565;
+}
 
 #flag-ca .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-cf {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-cf .path1, #flag-cf .path2 {
-  fill: #4758a9; }
+#flag-cf .path1,
+#flag-cf .path2 {
+  fill: #4758a9;
+}
 
 #flag-cf .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-cf .path4, #flag-cf .path5, #flag-cf .path6 {
-  fill: #f6d660; }
+#flag-cf .path4,
+#flag-cf .path5,
+#flag-cf .path6 {
+  fill: #f6d660;
+}
 
-#flag-cf .path7, #flag-cf .path8 {
-  fill: #fff; }
+#flag-cf .path7,
+#flag-cf .path8 {
+  fill: #fff;
+}
 
-#flag-cf .path9, #flag-cf .path10 {
-  fill: #52c162; }
+#flag-cf .path9,
+#flag-cf .path10 {
+  fill: #52c162;
+}
 
 #flag-cf .path11 {
-  fill: rgba(67, 63, 54, 0.27); }
+  fill: rgba(67, 63, 54, 0.27);
+}
 
 .flag-ch {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ch .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-ch .path2 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-cl {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-cl .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-cl .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-cl .path3 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-cl .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-cm {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-cm .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-cm .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-cm .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-cm .path4 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-cm .path5 {
-  fill: rgba(95, 40, 39, 0.4); }
+  fill: rgba(95, 40, 39, 0.4);
+}
 
 .flag-cn {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-cn .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-cn .path2, #flag-cn .path3, #flag-cn .path4, #flag-cn .path5, #flag-cn .path6 {
-  fill: #f6bb42; }
+#flag-cn .path2,
+#flag-cn .path3,
+#flag-cn .path4,
+#flag-cn .path5,
+#flag-cn .path6 {
+  fill: #f6bb42;
+}
 
 .flag-co {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-co .path1 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-co .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-co .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-cr {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-cr .path1, #flag-cr .path2 {
-  fill: #4758a9; }
+#flag-cr .path1,
+#flag-cr .path2 {
+  fill: #4758a9;
+}
 
-#flag-cr .path3, #flag-cr .path4 {
-  fill: #f5f7fa; }
+#flag-cr .path3,
+#flag-cr .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-cr .path5 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-cu {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-cu .path1, #flag-cu .path2, #flag-cu .path3 {
-  fill: #4758a9; }
+#flag-cu .path1,
+#flag-cu .path2,
+#flag-cu .path3 {
+  fill: #4758a9;
+}
 
 #flag-cu .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-cu .path5, #flag-cu .path6, #flag-cu .path7 {
-  fill: #f5f7fa; }
+#flag-cu .path5,
+#flag-cu .path6,
+#flag-cu .path7 {
+  fill: #f5f7fa;
+}
 
 .flag-cv {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-cv .path1, #flag-cv .path2 {
-  fill: #4758a9; }
+#flag-cv .path1,
+#flag-cv .path2 {
+  fill: #4758a9;
+}
 
-#flag-cv .path3, #flag-cv .path4, #flag-cv .path5, #flag-cv .path6, #flag-cv .path7, #flag-cv .path8, #flag-cv .path9, #flag-cv .path10 {
-  fill: #f6d660; }
+#flag-cv .path3,
+#flag-cv .path4,
+#flag-cv .path5,
+#flag-cv .path6,
+#flag-cv .path7,
+#flag-cv .path8,
+#flag-cv .path9,
+#flag-cv .path10 {
+  fill: #f6d660;
+}
 
-#flag-cv .path11, #flag-cv .path12, #flag-cv .path13, #flag-cv .path14, #flag-cv .path15, #flag-cv .path16 {
-  fill: #f5f7fa; }
+#flag-cv .path11,
+#flag-cv .path12,
+#flag-cv .path13,
+#flag-cv .path14,
+#flag-cv .path15,
+#flag-cv .path16 {
+  fill: #f5f7fa;
+}
 
 #flag-cv .path17 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-cy {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-cy .path1, #flag-cy .path2, #flag-cy .path3, #flag-cy .path4 {
-  fill: #ed5565; }
+#flag-cy .path1,
+#flag-cy .path2,
+#flag-cy .path3,
+#flag-cy .path4 {
+  fill: #ed5565;
+}
 
 #flag-cy .path5 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-cz {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-cz .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-cz .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-cz .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-cz .path4, #flag-cz .path5 {
-  fill: rgba(95, 35, 41, 0.4); }
+#flag-cz .path4,
+#flag-cz .path5 {
+  fill: rgba(95, 35, 41, 0.4);
+}
 
 #flag-cz .path6 {
-  fill: rgba(153, 92, 100, 0.64); }
+  fill: rgba(153, 92, 100, 0.64);
+}
 
 .flag-de {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-de .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-de .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-de .path3 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 .flag-dj {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-dj .path1 {
-  fill: #8cbae2; }
+  fill: #8cbae2;
+}
 
 #flag-dj .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-dj .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-dj .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-dk {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-dk .path1, #flag-dk .path2, #flag-dk .path3, #flag-dk .path4 {
-  fill: #ed5565; }
+#flag-dk .path1,
+#flag-dk .path2,
+#flag-dk .path3,
+#flag-dk .path4 {
+  fill: #ed5565;
+}
 
 #flag-dk .path5 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-dm {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-dm .path1, #flag-dm .path2, #flag-dm .path3, #flag-dm .path4 {
-  fill: #52c162; }
+#flag-dm .path1,
+#flag-dm .path2,
+#flag-dm .path3,
+#flag-dm .path4 {
+  fill: #52c162;
+}
 
-#flag-dm .path5, #flag-dm .path6, #flag-dm .path7, #flag-dm .path8 {
-  fill: #f6bb42; }
+#flag-dm .path5,
+#flag-dm .path6,
+#flag-dm .path7,
+#flag-dm .path8 {
+  fill: #f6bb42;
+}
 
 #flag-dm .path9 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-dm .path10, #flag-dm .path11, #flag-dm .path12, #flag-dm .path13 {
-  fill: #434a54; }
+#flag-dm .path10,
+#flag-dm .path11,
+#flag-dm .path12,
+#flag-dm .path13 {
+  fill: #434a54;
+}
 
-#flag-dm .path14, #flag-dm .path15, #flag-dm .path16, #flag-dm .path17 {
-  fill: #fff; }
+#flag-dm .path14,
+#flag-dm .path15,
+#flag-dm .path16,
+#flag-dm .path17 {
+  fill: #fff;
+}
 
 .flag-do {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-do .path1, #flag-do .path2 {
-  fill: #4758a9; }
+#flag-do .path1,
+#flag-do .path2 {
+  fill: #4758a9;
+}
 
-#flag-do .path3, #flag-do .path4 {
-  fill: #fff; }
+#flag-do .path3,
+#flag-do .path4 {
+  fill: #fff;
+}
 
-#flag-do .path5, #flag-do .path6 {
-  fill: #ed5565; }
+#flag-do .path5,
+#flag-do .path6 {
+  fill: #ed5565;
+}
 
 #flag-do .path7 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-dz {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-dz .path1, #flag-dz .path2 {
-  fill: #57a863; }
+#flag-dz .path1,
+#flag-dz .path2 {
+  fill: #57a863;
+}
 
 #flag-dz .path3 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-dz .path4, #flag-dz .path5 {
-  fill: #ed5565; }
+#flag-dz .path4,
+#flag-dz .path5 {
+  fill: #ed5565;
+}
 
 .flag-ec {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ec .path1, #flag-ec .path2 {
-  fill: #f2d660; }
+#flag-ec .path1,
+#flag-ec .path2 {
+  fill: #f2d660;
+}
 
 #flag-ec .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-ec .path4, #flag-ec .path5 {
-  fill: #4758a9; }
+#flag-ec .path4,
+#flag-ec .path5 {
+  fill: #4758a9;
+}
 
 #flag-ec .path6 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-ee {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ee .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-ee .path2 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-ee .path3 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-eg {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-eg .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-eg .path2 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-eg .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-eg .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-eg .path5 {
-  fill: rgba(26, 29, 33, 0.4); }
+  fill: rgba(26, 29, 33, 0.4);
+}
 
 .flag-er {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-er .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-er .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-er .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-er .path4 {
-  fill: #8cbae2; }
+  fill: #8cbae2;
+}
 
 .flag-es {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-es .path1, #flag-es .path2, #flag-es .path3 {
-  fill: #ed5565; }
+#flag-es .path1,
+#flag-es .path2,
+#flag-es .path3 {
+  fill: #ed5565;
+}
 
 #flag-es .path4 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-et {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-et .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
-#flag-et .path2, #flag-et .path3 {
-  fill: #8cbae2; }
+#flag-et .path2,
+#flag-et .path3 {
+  fill: #8cbae2;
+}
 
-#flag-et .path4, #flag-et .path5, #flag-et .path6 {
-  fill: #ffce54; }
+#flag-et .path4,
+#flag-et .path5,
+#flag-et .path6 {
+  fill: #ffce54;
+}
 
 #flag-et .path7 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-fi {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-fi .path1, #flag-fi .path2, #flag-fi .path3, #flag-fi .path4 {
-  fill: #f5f7fa; }
+#flag-fi .path1,
+#flag-fi .path2,
+#flag-fi .path3,
+#flag-fi .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-fi .path5 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 .flag-fj {
-  width: 1.4873046875em; }
+  width: 1.4873046875em;
+}
 
 #flag-fj .path1 {
-  fill: rgba(82, 77, 113, 0.64); }
+  fill: rgba(82, 77, 113, 0.64);
+}
 
-#flag-fj .path2, #flag-fj .path3, #flag-fj .path4, #flag-fj .path5, #flag-fj .path6 {
-  fill: #4758a9; }
+#flag-fj .path2,
+#flag-fj .path3,
+#flag-fj .path4,
+#flag-fj .path5,
+#flag-fj .path6 {
+  fill: #4758a9;
+}
 
-#flag-fj .path7, #flag-fj .path8, #flag-fj .path9, #flag-fj .path10, #flag-fj .path11, #flag-fj .path12, #flag-fj .path13 {
-  fill: #fff; }
+#flag-fj .path7,
+#flag-fj .path8,
+#flag-fj .path9,
+#flag-fj .path10,
+#flag-fj .path11,
+#flag-fj .path12,
+#flag-fj .path13 {
+  fill: #fff;
+}
 
-#flag-fj .path14, #flag-fj .path15 {
-  fill: #ed5565; }
+#flag-fj .path14,
+#flag-fj .path15 {
+  fill: #ed5565;
+}
 
 #flag-fj .path16 {
-  fill: rgba(84, 79, 116, 0.65); }
+  fill: rgba(84, 79, 116, 0.65);
+}
 
-#flag-fj .path17, #flag-fj .path18, #flag-fj .path19, #flag-fj .path20 {
-  fill: #f5f7fa; }
+#flag-fj .path17,
+#flag-fj .path18,
+#flag-fj .path19,
+#flag-fj .path20 {
+  fill: #f5f7fa;
+}
 
 #flag-fj .path21 {
-  fill: rgba(18, 23, 45, 0.27); }
+  fill: rgba(18, 23, 45, 0.27);
+}
 
 .flag-fr {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-fr .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-fr .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-fr .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-ga {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ga .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-ga .path2 {
-  fill: #f2d660; }
+  fill: #f2d660;
+}
 
 #flag-ga .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 .flag-gb {
-  width: 1.5078125em; }
+  width: 1.5078125em;
+}
 
 #flag-gb .path1 {
-  fill: rgba(67, 54, 70, 0.4); }
+  fill: rgba(67, 54, 70, 0.4);
+}
 
-#flag-gb .path2, #flag-gb .path3, #flag-gb .path4, #flag-gb .path5, #flag-gb .path6, #flag-gb .path7, #flag-gb .path8, #flag-gb .path9 {
-  fill: #4758a9; }
+#flag-gb .path2,
+#flag-gb .path3,
+#flag-gb .path4,
+#flag-gb .path5,
+#flag-gb .path6,
+#flag-gb .path7,
+#flag-gb .path8,
+#flag-gb .path9 {
+  fill: #4758a9;
+}
 
-#flag-gb .path10, #flag-gb .path11, #flag-gb .path12, #flag-gb .path13 {
-  fill: #fff; }
+#flag-gb .path10,
+#flag-gb .path11,
+#flag-gb .path12,
+#flag-gb .path13 {
+  fill: #fff;
+}
 
-#flag-gb .path14, #flag-gb .path15, #flag-gb .path16, #flag-gb .path17, #flag-gb .path18 {
-  fill: #ed5565; }
+#flag-gb .path14,
+#flag-gb .path15,
+#flag-gb .path16,
+#flag-gb .path17,
+#flag-gb .path18 {
+  fill: #ed5565;
+}
 
 #flag-gb .path19 {
-  fill: rgba(85, 66, 82, 0.47); }
+  fill: rgba(85, 66, 82, 0.47);
+}
 
 #flag-gb .path20 {
-  fill: rgba(209, 90, 104, 0.88); }
+  fill: rgba(209, 90, 104, 0.88);
+}
 
 #flag-gb .path21 {
-  fill: rgba(122, 87, 103, 0.6); }
+  fill: rgba(122, 87, 103, 0.6);
+}
 
 .flag-gd {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-gd .path1, #flag-gd .path2 {
-  fill: #ed5565; }
+#flag-gd .path1,
+#flag-gd .path2 {
+  fill: #ed5565;
+}
 
-#flag-gd .path3, #flag-gd .path4, #flag-gd .path5, #flag-gd .path6, #flag-gd .path7, #flag-gd .path8, #flag-gd .path9, #flag-gd .path10, #flag-gd .path11 {
-  fill: #f6d660; }
+#flag-gd .path3,
+#flag-gd .path4,
+#flag-gd .path5,
+#flag-gd .path6,
+#flag-gd .path7,
+#flag-gd .path8,
+#flag-gd .path9,
+#flag-gd .path10,
+#flag-gd .path11 {
+  fill: #f6d660;
+}
 
 #flag-gd .path12 {
-  fill: rgba(27, 10, 11, 0.12); }
+  fill: rgba(27, 10, 11, 0.12);
+}
 
-#flag-gd .path13, #flag-gd .path14 {
-  fill: #52c162; }
+#flag-gd .path13,
+#flag-gd .path14 {
+  fill: #52c162;
+}
 
 .flag-ge {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ge .path1, #flag-ge .path2, #flag-ge .path3, #flag-ge .path4 {
-  fill: #fff; }
+#flag-ge .path1,
+#flag-ge .path2,
+#flag-ge .path3,
+#flag-ge .path4 {
+  fill: #fff;
+}
 
-#flag-ge .path5, #flag-ge .path6, #flag-ge .path7, #flag-ge .path8, #flag-ge .path9 {
-  fill: #ed5565; }
+#flag-ge .path5,
+#flag-ge .path6,
+#flag-ge .path7,
+#flag-ge .path8,
+#flag-ge .path9 {
+  fill: #ed5565;
+}
 
 #flag-ge .path10 {
-  fill: rgba(101, 95, 96, 0.4); }
+  fill: rgba(101, 95, 96, 0.4);
+}
 
 .flag-gh {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-gh .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-gh .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-gh .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-gh .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-gm {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-gm .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-gm .path2, #flag-gm .path3 {
-  fill: #fff; }
+#flag-gm .path2,
+#flag-gm .path3 {
+  fill: #fff;
+}
 
 #flag-gm .path4 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-gm .path5 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-gn {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-gn .path1 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-gn .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-gn .path3 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-gn .path4 {
-  fill: rgba(29, 48, 26, 0.27); }
+  fill: rgba(29, 48, 26, 0.27);
+}
 
 .flag-gq {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-gq .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-gq .path2 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-gq .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-gq .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-gt {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-gt .path1, #flag-gt .path2 {
-  fill: #8cbae2; }
+#flag-gt .path1,
+#flag-gt .path2 {
+  fill: #8cbae2;
+}
 
 #flag-gt .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-gt .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-gt .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-gw {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-gw .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-gw .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-gw .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-gw .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-gy {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-gy .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-gy .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-gy .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-gy .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-gy .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-hn {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-hn .path1, #flag-hn .path2, #flag-hn .path3, #flag-hn .path4, #flag-hn .path5, #flag-hn .path6, #flag-hn .path7 {
-  fill: #3bafda; }
+#flag-hn .path1,
+#flag-hn .path2,
+#flag-hn .path3,
+#flag-hn .path4,
+#flag-hn .path5,
+#flag-hn .path6,
+#flag-hn .path7 {
+  fill: #3bafda;
+}
 
 #flag-hn .path8 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-hr {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-hr .path1, #flag-hr .path2 {
-  fill: #ed5565; }
+#flag-hr .path1,
+#flag-hr .path2 {
+  fill: #ed5565;
+}
 
 #flag-hr .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-hr .path4 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 .flag-ht {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ht .path1, #flag-ht .path2, #flag-ht .path3 {
-  fill: #4758a9; }
+#flag-ht .path1,
+#flag-ht .path2,
+#flag-ht .path3 {
+  fill: #4758a9;
+}
 
 #flag-ht .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-ht .path5, #flag-ht .path6, #flag-ht .path7, #flag-ht .path8, #flag-ht .path9, #flag-ht .path10 {
-  fill: #57a863; }
+#flag-ht .path5,
+#flag-ht .path6,
+#flag-ht .path7,
+#flag-ht .path8,
+#flag-ht .path9,
+#flag-ht .path10 {
+  fill: #57a863;
+}
 
 #flag-ht .path11 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-hu {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-hu .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-hu .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-hu .path3 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-id {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-id .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-id .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-ie {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-ie .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-ie .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-ie .path3 {
-  fill: #fc6e51; }
+  fill: #fc6e51;
+}
 
 .flag-il {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-il .path1, #flag-il .path2, #flag-il .path3 {
-  fill: #4758a9; }
+#flag-il .path1,
+#flag-il .path2,
+#flag-il .path3 {
+  fill: #4758a9;
+}
 
-#flag-il .path4, #flag-il .path5, #flag-il .path6, #flag-il .path7, #flag-il .path8, #flag-il .path9, #flag-il .path10, #flag-il .path11 {
-  fill: #f5f7fa; }
+#flag-il .path4,
+#flag-il .path5,
+#flag-il .path6,
+#flag-il .path7,
+#flag-il .path8,
+#flag-il .path9,
+#flag-il .path10,
+#flag-il .path11 {
+  fill: #f5f7fa;
+}
 
 .flag-in {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-in .path1 {
-  fill: #fc6e51; }
+  fill: #fc6e51;
+}
 
-#flag-in .path2, #flag-in .path3 {
-  fill: #f5f7fa; }
+#flag-in .path2,
+#flag-in .path3 {
+  fill: #f5f7fa;
+}
 
 #flag-in .path4 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-in .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-iq {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-iq .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-iq .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-iq .path3, #flag-iq .path4, #flag-iq .path5 {
-  fill: #57a863; }
+#flag-iq .path3,
+#flag-iq .path4,
+#flag-iq .path5 {
+  fill: #57a863;
+}
 
 #flag-iq .path6 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-iq .path7 {
-  fill: rgba(26, 29, 33, 0.4); }
+  fill: rgba(26, 29, 33, 0.4);
+}
 
 .flag-ir {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ir .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-ir .path2, #flag-ir .path3, #flag-ir .path4, #flag-ir .path5, #flag-ir .path6, #flag-ir .path7, #flag-ir .path8, #flag-ir .path9, #flag-ir .path10, #flag-ir .path11, #flag-ir .path12, #flag-ir .path13, #flag-ir .path14, #flag-ir .path15, #flag-ir .path16, #flag-ir .path17, #flag-ir .path18, #flag-ir .path19, #flag-ir .path20, #flag-ir .path21, #flag-ir .path22, #flag-ir .path23, #flag-ir .path24, #flag-ir .path25, #flag-ir .path26, #flag-ir .path27, #flag-ir .path28, #flag-ir .path29, #flag-ir .path30, #flag-ir .path31, #flag-ir .path32, #flag-ir .path33, #flag-ir .path34, #flag-ir .path35, #flag-ir .path36, #flag-ir .path37 {
-  fill: #f5f7fa; }
+#flag-ir .path2,
+#flag-ir .path3,
+#flag-ir .path4,
+#flag-ir .path5,
+#flag-ir .path6,
+#flag-ir .path7,
+#flag-ir .path8,
+#flag-ir .path9,
+#flag-ir .path10,
+#flag-ir .path11,
+#flag-ir .path12,
+#flag-ir .path13,
+#flag-ir .path14,
+#flag-ir .path15,
+#flag-ir .path16,
+#flag-ir .path17,
+#flag-ir .path18,
+#flag-ir .path19,
+#flag-ir .path20,
+#flag-ir .path21,
+#flag-ir .path22,
+#flag-ir .path23,
+#flag-ir .path24,
+#flag-ir .path25,
+#flag-ir .path26,
+#flag-ir .path27,
+#flag-ir .path28,
+#flag-ir .path29,
+#flag-ir .path30,
+#flag-ir .path31,
+#flag-ir .path32,
+#flag-ir .path33,
+#flag-ir .path34,
+#flag-ir .path35,
+#flag-ir .path36,
+#flag-ir .path37 {
+  fill: #f5f7fa;
+}
 
-#flag-ir .path38, #flag-ir .path39 {
-  fill: #ed5565; }
+#flag-ir .path38,
+#flag-ir .path39 {
+  fill: #ed5565;
+}
 
 .flag-is {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-is .path1, #flag-is .path2, #flag-is .path3, #flag-is .path4 {
-  fill: #4758a9; }
+#flag-is .path1,
+#flag-is .path2,
+#flag-is .path3,
+#flag-is .path4 {
+  fill: #4758a9;
+}
 
-#flag-is .path5, #flag-is .path6, #flag-is .path7, #flag-is .path8 {
-  fill: #fff; }
+#flag-is .path5,
+#flag-is .path6,
+#flag-is .path7,
+#flag-is .path8 {
+  fill: #fff;
+}
 
 #flag-is .path9 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-it {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-it .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-it .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-it .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-jm {
-  width: 1.5078125em; }
+  width: 1.5078125em;
+}
 
-#flag-jm .path1, #flag-jm .path2 {
-  fill: #52c162; }
+#flag-jm .path1,
+#flag-jm .path2 {
+  fill: #52c162;
+}
 
 #flag-jm .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-jm .path4, #flag-jm .path5 {
-  fill: #434a54; }
+#flag-jm .path4,
+#flag-jm .path5 {
+  fill: #434a54;
+}
 
 .flag-jo {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-jo .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-jo .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-jo .path3, #flag-jo .path4 {
-  fill: #f5f7fa; }
+#flag-jo .path3,
+#flag-jo .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-jo .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-jp {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-jp .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-jp .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-ke {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ke .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-ke .path2, #flag-ke .path3, #flag-ke .path4 {
-  fill: #ed5565; }
+#flag-ke .path2,
+#flag-ke .path3,
+#flag-ke .path4 {
+  fill: #ed5565;
+}
 
-#flag-ke .path5, #flag-ke .path6, #flag-ke .path7, #flag-ke .path8, #flag-ke .path9, #flag-ke .path10, #flag-ke .path11, #flag-ke .path12 {
-  fill: #f5f7fa; }
+#flag-ke .path5,
+#flag-ke .path6,
+#flag-ke .path7,
+#flag-ke .path8,
+#flag-ke .path9,
+#flag-ke .path10,
+#flag-ke .path11,
+#flag-ke .path12 {
+  fill: #f5f7fa;
+}
 
 #flag-ke .path13 {
-  fill: #e6e9ed; }
+  fill: #e6e9ed;
+}
 
 #flag-ke .path14 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-kg {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-kg .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-kg .path2, #flag-kg .path3, #flag-kg .path4, #flag-kg .path5, #flag-kg .path6, #flag-kg .path7, #flag-kg .path8, #flag-kg .path9, #flag-kg .path10 {
-  fill: #ffce54; }
+#flag-kg .path2,
+#flag-kg .path3,
+#flag-kg .path4,
+#flag-kg .path5,
+#flag-kg .path6,
+#flag-kg .path7,
+#flag-kg .path8,
+#flag-kg .path9,
+#flag-kg .path10 {
+  fill: #ffce54;
+}
 
 .flag-kh {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-kh .path1, #flag-kh .path2 {
-  fill: #ed5565; }
+#flag-kh .path1,
+#flag-kh .path2 {
+  fill: #ed5565;
+}
 
 #flag-kh .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-kh .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-ki {
-  width: 1.3193359375em; }
+  width: 1.3193359375em;
+}
 
 #flag-ki .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-ki .path2 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
-#flag-ki .path3, #flag-ki .path4 {
-  fill: #f5f7fa; }
+#flag-ki .path3,
+#flag-ki .path4 {
+  fill: #f5f7fa;
+}
 
-#flag-ki .path5, #flag-ki .path6 {
-  fill: #4758a9; }
+#flag-ki .path5,
+#flag-ki .path6 {
+  fill: #4758a9;
+}
 
 .flag-km {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-km .path1 {
-  fill: #f2d660; }
+  fill: #f2d660;
+}
 
 #flag-km .path2 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
-#flag-km .path3, #flag-km .path4, #flag-km .path5, #flag-km .path6, #flag-km .path7, #flag-km .path8 {
-  fill: #fff; }
+#flag-km .path3,
+#flag-km .path4,
+#flag-km .path5,
+#flag-km .path6,
+#flag-km .path7,
+#flag-km .path8 {
+  fill: #fff;
+}
 
 #flag-km .path9 {
-  fill: rgba(93, 148, 101, 0.71); }
+  fill: rgba(93, 148, 101, 0.71);
+}
 
 #flag-km .path10 {
-  fill: rgba(83, 124, 82, 0.71); }
+  fill: rgba(83, 124, 82, 0.71);
+}
 
 #flag-km .path11 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-km .path12 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-km .path13 {
-  fill: rgba(86, 96, 148, 0.8); }
+  fill: rgba(86, 96, 148, 0.8);
+}
 
 .flag-kn {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
 #flag-kn .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-kn .path2, #flag-kn .path3 {
-  fill: #f6bb42; }
+#flag-kn .path2,
+#flag-kn .path3 {
+  fill: #f6bb42;
+}
 
 #flag-kn .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-kn .path5 {
-  fill: rgba(41, 14, 17, 0.18); }
+  fill: rgba(41, 14, 17, 0.18);
+}
 
 #flag-kn .path6 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-kn .path7, #flag-kn .path8 {
-  fill: #f5f7fa; }
+#flag-kn .path7,
+#flag-kn .path8 {
+  fill: #f5f7fa;
+}
 
 .flag-kw {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-kw .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-kw .path2 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-kw .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-kw .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-kz {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-kz .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
-#flag-kz .path2, #flag-kz .path3, #flag-kz .path4, #flag-kz .path5, #flag-kz .path6 {
-  fill: #e1d26d; }
+#flag-kz .path2,
+#flag-kz .path3,
+#flag-kz .path4,
+#flag-kz .path5,
+#flag-kz .path6 {
+  fill: #e1d26d;
+}
 
 #flag-kz .path7 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-la {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-la .path1, #flag-la .path2 {
-  fill: #ed5565; }
+#flag-la .path1,
+#flag-la .path2 {
+  fill: #ed5565;
+}
 
 #flag-la .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-la .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-lb {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-lb .path1, #flag-lb .path2 {
-  fill: #ed5565; }
+#flag-lb .path1,
+#flag-lb .path2 {
+  fill: #ed5565;
+}
 
 #flag-lb .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-lb .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-lc {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-lc .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-lc .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-lc .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-lc .path4 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-li {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-li .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-li .path2 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-li .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-lk {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-lk .path1 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-lk .path2 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-lk .path3 {
-  fill: #ff8416; }
+  fill: #ff8416;
+}
 
 #flag-lk .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-lr {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-lr .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-lr .path2, #flag-lr .path3, #flag-lr .path4, #flag-lr .path5 {
-  fill: #ed5565; }
+#flag-lr .path2,
+#flag-lr .path3,
+#flag-lr .path4,
+#flag-lr .path5 {
+  fill: #ed5565;
+}
 
 #flag-lr .path6 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-lr .path7, #flag-lr .path8, #flag-lr .path9, #flag-lr .path10 {
-  fill: #f5f7fa; }
+#flag-lr .path7,
+#flag-lr .path8,
+#flag-lr .path9,
+#flag-lr .path10 {
+  fill: #f5f7fa;
+}
 
 .flag-ls {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ls .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-ls .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-ls .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-ls .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-lt {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-lt .path1 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-lt .path2 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-lt .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-lu {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-lu .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-lu .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-lu .path3 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 .flag-lv {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-lv .path1, #flag-lv .path2 {
-  fill: #b42b39; }
+#flag-lv .path1,
+#flag-lv .path2 {
+  fill: #b42b39;
+}
 
 #flag-lv .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-ly {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ly .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-ly .path2 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-ly .path3, #flag-ly .path4 {
-  fill: #fff; }
+#flag-ly .path3,
+#flag-ly .path4 {
+  fill: #fff;
+}
 
 #flag-ly .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-ma {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ma .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-ma .path2 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-mc {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-mc .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-mc .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-md {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-md .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-md .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-md .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-md .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-me {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-me .path1, #flag-me .path2 {
-  fill: #ffce54; }
+#flag-me .path1,
+#flag-me .path2 {
+  fill: #ffce54;
+}
 
 #flag-me .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-mg {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-mg .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-mg .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-mg .path3 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-mh {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-mh .path1, #flag-mh .path2 {
-  fill: #4758a9; }
+#flag-mh .path1,
+#flag-mh .path2 {
+  fill: #4758a9;
+}
 
 #flag-mh .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-mh .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-mh .path5 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-mh .path6 {
-  fill: rgba(30, 30, 30, 0.12); }
+  fill: rgba(30, 30, 30, 0.12);
+}
 
 #flag-mh .path7 {
-  fill: rgba(8, 10, 19, 0.12); }
+  fill: rgba(8, 10, 19, 0.12);
+}
 
 .flag-mk {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-mk .path1, #flag-mk .path2 {
-  fill: rgba(205, 73, 87, 0.87); }
+#flag-mk .path1,
+#flag-mk .path2 {
+  fill: rgba(205, 73, 87, 0.87);
+}
 
-#flag-mk .path3, #flag-mk .path4, #flag-mk .path5, #flag-mk .path6, #flag-mk .path7, #flag-mk .path8, #flag-mk .path9, #flag-mk .path10, #flag-mk .path11 {
-  fill: #ffce54; }
+#flag-mk .path3,
+#flag-mk .path4,
+#flag-mk .path5,
+#flag-mk .path6,
+#flag-mk .path7,
+#flag-mk .path8,
+#flag-mk .path9,
+#flag-mk .path10,
+#flag-mk .path11 {
+  fill: #ffce54;
+}
 
 #flag-mk .path12 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-mk .path13 {
-  fill: rgba(110, 39, 47, 0.47); }
+  fill: rgba(110, 39, 47, 0.47);
+}
 
 .flag-ml {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-ml .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-ml .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-ml .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-mn {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-mn .path1, #flag-mn .path2 {
-  fill: #ed5565; }
+#flag-mn .path1,
+#flag-mn .path2 {
+  fill: #ed5565;
+}
 
 #flag-mn .path3 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
-#flag-mn .path4, #flag-mn .path5, #flag-mn .path6, #flag-mn .path7, #flag-mn .path8 {
-  fill: #f6bb42; }
+#flag-mn .path4,
+#flag-mn .path5,
+#flag-mn .path6,
+#flag-mn .path7,
+#flag-mn .path8 {
+  fill: #f6bb42;
+}
 
 #flag-mn .path9 {
-  fill: rgba(54, 100, 161, 0.73); }
+  fill: rgba(54, 100, 161, 0.73);
+}
 
 .flag-mr {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-mr .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-mr .path2, #flag-mr .path3 {
-  fill: #f6d660; }
+#flag-mr .path2,
+#flag-mr .path3 {
+  fill: #f6d660;
+}
 
 .flag-mt {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-mt .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-mt .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-mt .path3 {
-  fill: #ccd1d9; }
+  fill: #ccd1d9;
+}
 
 .flag-mu {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-mu .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-mu .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-mu .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-mu .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-mv {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-mv .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-mv .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-mv .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-mw {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-mw .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-mw .path2, #flag-mw .path3 {
-  fill: #ed5565; }
+#flag-mw .path2,
+#flag-mw .path3 {
+  fill: #ed5565;
+}
 
 #flag-mw .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-mx {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-mx .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-mx .path2, #flag-mx .path3 {
-  fill: #f5f7fa; }
+#flag-mx .path2,
+#flag-mx .path3 {
+  fill: #f5f7fa;
+}
 
 #flag-mx .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-mx .path5 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-my {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-my .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-my .path2, #flag-my .path3, #flag-my .path4, #flag-my .path5 {
-  fill: #ed5565; }
+#flag-my .path2,
+#flag-my .path3,
+#flag-my .path4,
+#flag-my .path5 {
+  fill: #ed5565;
+}
 
-#flag-my .path6, #flag-my .path7 {
-  fill: #ffce54; }
+#flag-my .path6,
+#flag-my .path7 {
+  fill: #ffce54;
+}
 
-#flag-my .path8, #flag-my .path9, #flag-my .path10, #flag-my .path11 {
-  fill: #f5f7fa; }
+#flag-my .path8,
+#flag-my .path9,
+#flag-my .path10,
+#flag-my .path11 {
+  fill: #f5f7fa;
+}
 
 .flag-mz {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-mz .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-mz .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-mz .path3, #flag-mz .path4 {
-  fill: #f5f7fa; }
+#flag-mz .path3,
+#flag-mz .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-mz .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-mz .path6 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-na {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
 #flag-na .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-na .path2, #flag-na .path3 {
-  fill: #e6e9ed; }
+#flag-na .path2,
+#flag-na .path3 {
+  fill: #e6e9ed;
+}
 
 #flag-na .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-na .path5 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-na .path6 {
-  fill: rgba(15, 29, 17, 0.18); }
+  fill: rgba(15, 29, 17, 0.18);
+}
 
 #flag-na .path7 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-ne {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ne .path1, #flag-ne .path2 {
-  fill: #fc6e51; }
+#flag-ne .path1,
+#flag-ne .path2 {
+  fill: #fc6e51;
+}
 
 #flag-ne .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-ne .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-ng {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ng .path1, #flag-ng .path2 {
-  fill: #57a863; }
+#flag-ng .path1,
+#flag-ng .path2 {
+  fill: #57a863;
+}
 
 #flag-ng .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-ni {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ni .path1, #flag-ni .path2 {
-  fill: #4a89dc; }
+#flag-ni .path1,
+#flag-ni .path2 {
+  fill: #4a89dc;
+}
 
-#flag-ni .path3, #flag-ni .path4 {
-  fill: #f5f7fa; }
+#flag-ni .path3,
+#flag-ni .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-ni .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-nl {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-nl .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-nl .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-nl .path3 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 .flag-no {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-no .path1, #flag-no .path2, #flag-no .path3, #flag-no .path4 {
-  fill: #ed5565; }
+#flag-no .path1,
+#flag-no .path2,
+#flag-no .path3,
+#flag-no .path4 {
+  fill: #ed5565;
+}
 
-#flag-no .path5, #flag-no .path6, #flag-no .path7, #flag-no .path8 {
-  fill: #fff; }
+#flag-no .path5,
+#flag-no .path6,
+#flag-no .path7,
+#flag-no .path8 {
+  fill: #fff;
+}
 
 #flag-no .path9 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-no .path10 {
-  fill: rgba(149, 119, 130, 0.67); }
+  fill: rgba(149, 119, 130, 0.67);
+}
 
 .flag-np {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-np .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-np .path2, #flag-np .path3 {
-  fill: #ed5565; }
+#flag-np .path2,
+#flag-np .path3 {
+  fill: #ed5565;
+}
 
-#flag-np .path4, #flag-np .path5 {
-  fill: #fff; }
+#flag-np .path4,
+#flag-np .path5 {
+  fill: #fff;
+}
 
 #flag-np .path6 {
-  fill: #ef6a78; }
+  fill: #ef6a78;
+}
 
 .flag-nr {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-nr .path1, #flag-nr .path2 {
-  fill: #4758a9; }
+#flag-nr .path1,
+#flag-nr .path2 {
+  fill: #4758a9;
+}
 
 #flag-nr .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-nr .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-nz {
-  width: 1.4873046875em; }
+  width: 1.4873046875em;
+}
 
 #flag-nz .path1 {
-  fill: rgba(82, 77, 113, 0.64); }
+  fill: rgba(82, 77, 113, 0.64);
+}
 
-#flag-nz .path2, #flag-nz .path3, #flag-nz .path4, #flag-nz .path5, #flag-nz .path6 {
-  fill: #4758a9; }
+#flag-nz .path2,
+#flag-nz .path3,
+#flag-nz .path4,
+#flag-nz .path5,
+#flag-nz .path6 {
+  fill: #4758a9;
+}
 
-#flag-nz .path7, #flag-nz .path8, #flag-nz .path9, #flag-nz .path10, #flag-nz .path11, #flag-nz .path12, #flag-nz .path13 {
-  fill: #fff; }
+#flag-nz .path7,
+#flag-nz .path8,
+#flag-nz .path9,
+#flag-nz .path10,
+#flag-nz .path11,
+#flag-nz .path12,
+#flag-nz .path13 {
+  fill: #fff;
+}
 
-#flag-nz .path14, #flag-nz .path15, #flag-nz .path16, #flag-nz .path17, #flag-nz .path18 {
-  fill: #ed5565; }
+#flag-nz .path14,
+#flag-nz .path15,
+#flag-nz .path16,
+#flag-nz .path17,
+#flag-nz .path18 {
+  fill: #ed5565;
+}
 
 #flag-nz .path19 {
-  fill: rgba(84, 79, 116, 0.65); }
+  fill: rgba(84, 79, 116, 0.65);
+}
 
 #flag-nz .path20 {
-  fill: rgba(18, 23, 45, 0.27); }
+  fill: rgba(18, 23, 45, 0.27);
+}
 
 .flag-om {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-om .path1, #flag-om .path2 {
-  fill: #ed5565; }
+#flag-om .path1,
+#flag-om .path2 {
+  fill: #ed5565;
+}
 
 #flag-om .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-om .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-om .path5 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-pa {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-pa .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-pa .path2, #flag-pa .path3 {
-  fill: #ed5565; }
+#flag-pa .path2,
+#flag-pa .path3 {
+  fill: #ed5565;
+}
 
-#flag-pa .path4, #flag-pa .path5 {
-  fill: #4758a9; }
+#flag-pa .path4,
+#flag-pa .path5 {
+  fill: #4758a9;
+}
 
 .flag-pe {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-pe .path1, #flag-pe .path2 {
-  fill: #ed5565; }
+#flag-pe .path1,
+#flag-pe .path2 {
+  fill: #ed5565;
+}
 
 #flag-pe .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-pg {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-pg .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-pg .path2 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-pg .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
-#flag-pg .path4, #flag-pg .path5, #flag-pg .path6, #flag-pg .path7, #flag-pg .path8 {
-  fill: #fff; }
+#flag-pg .path4,
+#flag-pg .path5,
+#flag-pg .path6,
+#flag-pg .path7,
+#flag-pg .path8 {
+  fill: #fff;
+}
 
 #flag-pg .path9 {
-  fill: rgba(17, 19, 22, 0.27); }
+  fill: rgba(17, 19, 22, 0.27);
+}
 
 .flag-ph {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ph .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-ph .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-ph .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-ph .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-pk {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-pk .path1, #flag-pk .path2, #flag-pk .path3 {
-  fill: #f5f7fa; }
+#flag-pk .path1,
+#flag-pk .path2,
+#flag-pk .path3 {
+  fill: #f5f7fa;
+}
 
 #flag-pk .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-pl {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-pl .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-pl .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-pt {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-pt .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-pt .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-pt .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-pw {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-pw .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-pw .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-py {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-py .path1, #flag-py .path2 {
-  fill: #ed5565; }
+#flag-py .path1,
+#flag-py .path2 {
+  fill: #ed5565;
+}
 
-#flag-py .path3, #flag-py .path4 {
-  fill: #f5f7fa; }
+#flag-py .path3,
+#flag-py .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-py .path5 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 .flag-qa {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-qa .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-qa .path2 {
-  fill: #a54577; }
+  fill: #a54577;
+}
 
 .flag-ro {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ro .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-ro .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-ro .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-rs {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-rs .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-rs .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-rs .path3, #flag-rs .path4, #flag-rs .path5 {
-  fill: #4758a9; }
+#flag-rs .path3,
+#flag-rs .path4,
+#flag-rs .path5 {
+  fill: #4758a9;
+}
 
 #flag-rs .path6 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-ru {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ru .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-ru .path2 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-ru .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-rw {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-rw .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
-#flag-rw .path2, #flag-rw .path3 {
-  fill: #ffce54; }
+#flag-rw .path2,
+#flag-rw .path3 {
+  fill: #ffce54;
+}
 
 #flag-rw .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-sa {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-sa .path1, #flag-sa .path2, #flag-sa .path3, #flag-sa .path4, #flag-sa .path5, #flag-sa .path6, #flag-sa .path7 {
-  fill: #57a863; }
+#flag-sa .path1,
+#flag-sa .path2,
+#flag-sa .path3,
+#flag-sa .path4,
+#flag-sa .path5,
+#flag-sa .path6,
+#flag-sa .path7 {
+  fill: #57a863;
+}
 
-#flag-sa .path8, #flag-sa .path9, #flag-sa .path10, #flag-sa .path11, #flag-sa .path12, #flag-sa .path13, #flag-sa .path14, #flag-sa .path15, #flag-sa .path16, #flag-sa .path17, #flag-sa .path18, #flag-sa .path19, #flag-sa .path20, #flag-sa .path21, #flag-sa .path22, #flag-sa .path23, #flag-sa .path24, #flag-sa .path25, #flag-sa .path26, #flag-sa .path27, #flag-sa .path28, #flag-sa .path29, #flag-sa .path30, #flag-sa .path31, #flag-sa .path32, #flag-sa .path33, #flag-sa .path34, #flag-sa .path35 {
-  fill: #fff; }
+#flag-sa .path8,
+#flag-sa .path9,
+#flag-sa .path10,
+#flag-sa .path11,
+#flag-sa .path12,
+#flag-sa .path13,
+#flag-sa .path14,
+#flag-sa .path15,
+#flag-sa .path16,
+#flag-sa .path17,
+#flag-sa .path18,
+#flag-sa .path19,
+#flag-sa .path20,
+#flag-sa .path21,
+#flag-sa .path22,
+#flag-sa .path23,
+#flag-sa .path24,
+#flag-sa .path25,
+#flag-sa .path26,
+#flag-sa .path27,
+#flag-sa .path28,
+#flag-sa .path29,
+#flag-sa .path30,
+#flag-sa .path31,
+#flag-sa .path32,
+#flag-sa .path33,
+#flag-sa .path34,
+#flag-sa .path35 {
+  fill: #fff;
+}
 
 .flag-sb {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
 #flag-sb .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-sb .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-sb .path3, #flag-sb .path4, #flag-sb .path5, #flag-sb .path6, #flag-sb .path7 {
-  fill: #f5f7fa; }
+#flag-sb .path3,
+#flag-sb .path4,
+#flag-sb .path5,
+#flag-sb .path6,
+#flag-sb .path7 {
+  fill: #f5f7fa;
+}
 
 #flag-sb .path8 {
-  fill: rgba(15, 29, 17, 0.18); }
+  fill: rgba(15, 29, 17, 0.18);
+}
 
 #flag-sb .path9 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-sc {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-sc .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-sc .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-sc .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-sc .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-sc .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-sd {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-sd .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-sd .path2 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-sd .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-sd .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-sd .path5 {
-  fill: rgba(26, 29, 33, 0.4); }
+  fill: rgba(26, 29, 33, 0.4);
+}
 
 .flag-se {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-se .path1, #flag-se .path2, #flag-se .path3, #flag-se .path4 {
-  fill: #4a89dc; }
+#flag-se .path1,
+#flag-se .path2,
+#flag-se .path3,
+#flag-se .path4 {
+  fill: #4a89dc;
+}
 
 #flag-se .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-sg {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-sg .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-sg .path2, #flag-sg .path3, #flag-sg .path4, #flag-sg .path5, #flag-sg .path6, #flag-sg .path7, #flag-sg .path8 {
-  fill: #f5f7fa; }
+#flag-sg .path2,
+#flag-sg .path3,
+#flag-sg .path4,
+#flag-sg .path5,
+#flag-sg .path6,
+#flag-sg .path7,
+#flag-sg .path8 {
+  fill: #f5f7fa;
+}
 
 .flag-si {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-si .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-si .path2, #flag-si .path3 {
-  fill: #4758a9; }
+#flag-si .path2,
+#flag-si .path3 {
+  fill: #4758a9;
+}
 
 #flag-si .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-sk {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-sk .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-sk .path2, #flag-sk .path3 {
-  fill: #ed5565; }
+#flag-sk .path2,
+#flag-sk .path3 {
+  fill: #ed5565;
+}
 
-#flag-sk .path4, #flag-sk .path5 {
-  fill: #4758a9; }
+#flag-sk .path4,
+#flag-sk .path5 {
+  fill: #4758a9;
+}
 
 .flag-sl {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-sl .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-sl .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-sl .path3 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 .flag-sm {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-sm .path1, #flag-sm .path2, #flag-sm .path3, #flag-sm .path4, #flag-sm .path5 {
-  fill: #f5f7fa; }
+#flag-sm .path1,
+#flag-sm .path2,
+#flag-sm .path3,
+#flag-sm .path4,
+#flag-sm .path5 {
+  fill: #f5f7fa;
+}
 
 #flag-sm .path6 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-sm .path7, #flag-sm .path8, #flag-sm .path9 {
-  fill: #57a863; }
+#flag-sm .path7,
+#flag-sm .path8,
+#flag-sm .path9 {
+  fill: #57a863;
+}
 
 #flag-sm .path10 {
-  fill: #f7eed4; }
+  fill: #f7eed4;
+}
 
 #flag-sm .path11 {
-  fill: #f7efd9; }
+  fill: #f7efd9;
+}
 
-#flag-sm .path12, #flag-sm .path13, #flag-sm .path14, #flag-sm .path15, #flag-sm .path16, #flag-sm .path17, #flag-sm .path18, #flag-sm .path19, #flag-sm .path20 {
-  fill: #3bafda; }
+#flag-sm .path12,
+#flag-sm .path13,
+#flag-sm .path14,
+#flag-sm .path15,
+#flag-sm .path16,
+#flag-sm .path17,
+#flag-sm .path18,
+#flag-sm .path19,
+#flag-sm .path20 {
+  fill: #3bafda;
+}
 
 #flag-sm .path21 {
-  fill: #49aca0; }
+  fill: #49aca0;
+}
 
 .flag-sn {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-sn .path1, #flag-sn .path2 {
-  fill: #57a863; }
+#flag-sn .path1,
+#flag-sn .path2 {
+  fill: #57a863;
+}
 
 #flag-sn .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-sn .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-so {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-so .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-so .path2 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-sr {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-sr .path1, #flag-sr .path2 {
-  fill: #57a863; }
+#flag-sr .path1,
+#flag-sr .path2 {
+  fill: #57a863;
+}
 
-#flag-sr .path3, #flag-sr .path4 {
-  fill: #fff; }
+#flag-sr .path3,
+#flag-sr .path4 {
+  fill: #fff;
+}
 
 #flag-sr .path5 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-sr .path6 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-sv {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-sv .path1, #flag-sv .path2 {
-  fill: #4a89dc; }
+#flag-sv .path1,
+#flag-sv .path2 {
+  fill: #4a89dc;
+}
 
-#flag-sv .path3, #flag-sv .path4 {
-  fill: #f5f7fa; }
+#flag-sv .path3,
+#flag-sv .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-sv .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-sy {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-sy .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-sy .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-sy .path3, #flag-sy .path4 {
-  fill: #57a863; }
+#flag-sy .path3,
+#flag-sy .path4 {
+  fill: #57a863;
+}
 
 #flag-sy .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-sz {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-sz .path1, #flag-sz .path2 {
-  fill: #4758a9; }
+#flag-sz .path1,
+#flag-sz .path2 {
+  fill: #4758a9;
+}
 
-#flag-sz .path3, #flag-sz .path4, #flag-sz .path5, #flag-sz .path6, #flag-sz .path7, #flag-sz .path8 {
-  fill: #ffce54; }
+#flag-sz .path3,
+#flag-sz .path4,
+#flag-sz .path5,
+#flag-sz .path6,
+#flag-sz .path7,
+#flag-sz .path8 {
+  fill: #ffce54;
+}
 
 #flag-sz .path9 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-sz .path10 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-sz .path11 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-td {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-td .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-td .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-td .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-tg {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-tg .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-tg .path2, #flag-tg .path3 {
-  fill: #57a863; }
+#flag-tg .path2,
+#flag-tg .path3 {
+  fill: #57a863;
+}
 
 #flag-tg .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-tg .path5, #flag-tg .path6 {
-  fill: #ffce54; }
+#flag-tg .path5,
+#flag-tg .path6 {
+  fill: #ffce54;
+}
 
 .flag-th {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-th .path1, #flag-th .path2 {
-  fill: #ed5565; }
+#flag-th .path1,
+#flag-th .path2 {
+  fill: #ed5565;
+}
 
-#flag-th .path3, #flag-th .path4 {
-  fill: #fff; }
+#flag-th .path3,
+#flag-th .path4 {
+  fill: #fff;
+}
 
 #flag-th .path5 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 .flag-tj {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-tj .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-tj .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-tj .path3, #flag-tj .path4, #flag-tj .path5, #flag-tj .path6, #flag-tj .path7 {
-  fill: #ffce54; }
+#flag-tj .path3,
+#flag-tj .path4,
+#flag-tj .path5,
+#flag-tj .path6,
+#flag-tj .path7 {
+  fill: #ffce54;
+}
 
 #flag-tj .path8 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-tm {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-tm .path1, #flag-tm .path2 {
-  fill: #57a863; }
+#flag-tm .path1,
+#flag-tm .path2 {
+  fill: #57a863;
+}
 
 #flag-tm .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-tm .path4, #flag-tm .path5, #flag-tm .path6, #flag-tm .path7, #flag-tm .path8, #flag-tm .path9 {
-  fill: #fff; }
+#flag-tm .path4,
+#flag-tm .path5,
+#flag-tm .path6,
+#flag-tm .path7,
+#flag-tm .path8,
+#flag-tm .path9 {
+  fill: #fff;
+}
 
 .flag-tn {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-tn .path1, #flag-tn .path2, #flag-tn .path3 {
-  fill: #ed5565; }
+#flag-tn .path1,
+#flag-tn .path2,
+#flag-tn .path3 {
+  fill: #ed5565;
+}
 
 #flag-tn .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-to {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-to .path1 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-to .path2, #flag-to .path3 {
-  fill: #ed5565; }
+#flag-to .path2,
+#flag-to .path3 {
+  fill: #ed5565;
+}
 
 .flag-tr {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-tr .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-tr .path2, #flag-tr .path3 {
-  fill: #fff; }
+#flag-tr .path2,
+#flag-tr .path3 {
+  fill: #fff;
+}
 
 .flag-tt {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
-#flag-tt .path1, #flag-tt .path2 {
-  fill: #e6e9ed; }
+#flag-tt .path1,
+#flag-tt .path2 {
+  fill: #e6e9ed;
+}
 
-#flag-tt .path3, #flag-tt .path4 {
-  fill: #ed5565; }
+#flag-tt .path3,
+#flag-tt .path4 {
+  fill: #ed5565;
+}
 
 #flag-tt .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-tt .path6 {
-  fill: rgba(41, 14, 17, 0.18); }
+  fill: rgba(41, 14, 17, 0.18);
+}
 
 .flag-tv {
-  width: 1.4873046875em; }
+  width: 1.4873046875em;
+}
 
 #flag-tv .path1 {
-  fill: rgba(79, 97, 124, 0.64); }
+  fill: rgba(79, 97, 124, 0.64);
+}
 
 #flag-tv .path2 {
-  fill: rgba(73, 93, 123, 0.64); }
+  fill: rgba(73, 93, 123, 0.64);
+}
 
-#flag-tv .path3, #flag-tv .path4, #flag-tv .path5, #flag-tv .path6, #flag-tv .path7, #flag-tv .path8, #flag-tv .path9, #flag-tv .path10 {
-  fill: #4758a9; }
+#flag-tv .path3,
+#flag-tv .path4,
+#flag-tv .path5,
+#flag-tv .path6,
+#flag-tv .path7,
+#flag-tv .path8,
+#flag-tv .path9,
+#flag-tv .path10 {
+  fill: #4758a9;
+}
 
-#flag-tv .path11, #flag-tv .path12, #flag-tv .path13, #flag-tv .path14, #flag-tv .path15, #flag-tv .path16, #flag-tv .path17 {
-  fill: #fff; }
+#flag-tv .path11,
+#flag-tv .path12,
+#flag-tv .path13,
+#flag-tv .path14,
+#flag-tv .path15,
+#flag-tv .path16,
+#flag-tv .path17 {
+  fill: #fff;
+}
 
 #flag-tv .path18 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-tv .path19 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-tv .path20 {
-  fill: rgba(81, 100, 127, 0.65); }
+  fill: rgba(81, 100, 127, 0.65);
+}
 
-#flag-tv .path21, #flag-tv .path22, #flag-tv .path23, #flag-tv .path24, #flag-tv .path25, #flag-tv .path26, #flag-tv .path27, #flag-tv .path28, #flag-tv .path29 {
-  fill: #ffce54; }
+#flag-tv .path21,
+#flag-tv .path22,
+#flag-tv .path23,
+#flag-tv .path24,
+#flag-tv .path25,
+#flag-tv .path26,
+#flag-tv .path27,
+#flag-tv .path28,
+#flag-tv .path29 {
+  fill: #ffce54;
+}
 
 #flag-tv .path30 {
-  fill: rgba(71, 98, 129, 0.65); }
+  fill: rgba(71, 98, 129, 0.65);
+}
 
 .flag-tw {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-tw .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-tw .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-tw .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-tz {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
 #flag-tz .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-tz .path2, #flag-tz .path3 {
-  fill: #f6bb42; }
+#flag-tz .path2,
+#flag-tz .path3 {
+  fill: #f6bb42;
+}
 
 #flag-tz .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-tz .path5 {
-  fill: rgba(13, 24, 38, 0.18); }
+  fill: rgba(13, 24, 38, 0.18);
+}
 
 #flag-tz .path6 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 .flag-ua {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ua .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-ua .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-ug {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ug .path1, #flag-ug .path2, #flag-ug .path3 {
-  fill: #434a54; }
+#flag-ug .path1,
+#flag-ug .path2,
+#flag-ug .path3 {
+  fill: #434a54;
+}
 
-#flag-ug .path4, #flag-ug .path5 {
-  fill: #f6bb42; }
+#flag-ug .path4,
+#flag-ug .path5 {
+  fill: #f6bb42;
+}
 
-#flag-ug .path6, #flag-ug .path7, #flag-ug .path8 {
-  fill: #ed5565; }
+#flag-ug .path6,
+#flag-ug .path7,
+#flag-ug .path8 {
+  fill: #ed5565;
+}
 
 #flag-ug .path9 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-uy {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-uy .path1, #flag-uy .path2 {
-  fill: #f5f7fa; }
+#flag-uy .path1,
+#flag-uy .path2 {
+  fill: #f5f7fa;
+}
 
-#flag-uy .path3, #flag-uy .path4, #flag-uy .path5 {
-  fill: #4758a9; }
+#flag-uy .path3,
+#flag-uy .path4,
+#flag-uy .path5 {
+  fill: #4758a9;
+}
 
 #flag-uy .path6 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-uz {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-uz .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-uz .path2 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-uz .path3, #flag-uz .path4, #flag-uz .path5, #flag-uz .path6, #flag-uz .path7, #flag-uz .path8, #flag-uz .path9, #flag-uz .path10, #flag-uz .path11, #flag-uz .path12, #flag-uz .path13, #flag-uz .path14 {
-  fill: #fafdfe; }
+#flag-uz .path3,
+#flag-uz .path4,
+#flag-uz .path5,
+#flag-uz .path6,
+#flag-uz .path7,
+#flag-uz .path8,
+#flag-uz .path9,
+#flag-uz .path10,
+#flag-uz .path11,
+#flag-uz .path12,
+#flag-uz .path13,
+#flag-uz .path14 {
+  fill: #fafdfe;
+}
 
-#flag-uz .path15, #flag-uz .path16 {
-  fill: #ed5565; }
+#flag-uz .path15,
+#flag-uz .path16 {
+  fill: #ed5565;
+}
 
 #flag-uz .path17 {
-  fill: rgba(167, 59, 71, 0.71); }
+  fill: rgba(167, 59, 71, 0.71);
+}
 
 #flag-uz .path18 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-uz .path19 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-va {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-va .path1 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-va .path2, #flag-va .path3, #flag-va .path4, #flag-va .path5, #flag-va .path6, #flag-va .path7, #flag-va .path8, #flag-va .path9 {
-  fill: #e6e9ed; }
+#flag-va .path2,
+#flag-va .path3,
+#flag-va .path4,
+#flag-va .path5,
+#flag-va .path6,
+#flag-va .path7,
+#flag-va .path8,
+#flag-va .path9 {
+  fill: #e6e9ed;
+}
 
 #flag-va .path10 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-vc {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-vc .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-vc .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-vc .path3, #flag-vc .path4, #flag-vc .path5, #flag-vc .path6 {
-  fill: #57a863; }
+#flag-vc .path3,
+#flag-vc .path4,
+#flag-vc .path5,
+#flag-vc .path6 {
+  fill: #57a863;
+}
 
 .flag-ve {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ve .path1 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-ve .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-ve .path3, #flag-ve .path4, #flag-ve .path5, #flag-ve .path6, #flag-ve .path7 {
-  fill: #fff; }
+#flag-ve .path3,
+#flag-ve .path4,
+#flag-ve .path5,
+#flag-ve .path6,
+#flag-ve .path7 {
+  fill: #fff;
+}
 
 #flag-ve .path8 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-vn {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-vn .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-vn .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-vu {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-vu .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-vu .path2, #flag-vu .path3, #flag-vu .path4 {
-  fill: #434a54; }
+#flag-vu .path2,
+#flag-vu .path3,
+#flag-vu .path4 {
+  fill: #434a54;
+}
 
 #flag-vu .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-vu .path6, #flag-vu .path7 {
-  fill: rgba(117, 94, 39, 0.47); }
+#flag-vu .path6,
+#flag-vu .path7 {
+  fill: rgba(117, 94, 39, 0.47);
+}
 
 #flag-vu .path8 {
-  fill: rgba(19, 21, 24, 0.29); }
+  fill: rgba(19, 21, 24, 0.29);
+}
 
 #flag-vu .path9 {
-  fill: rgba(79, 68, 39, 0.47); }
+  fill: rgba(79, 68, 39, 0.47);
+}
 
 #flag-vu .path10 {
-  fill: rgba(30, 30, 24, 0.29); }
+  fill: rgba(30, 30, 24, 0.29);
+}
 
 #flag-vu .path11 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-ws {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ws .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-ws .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-ws .path3, #flag-ws .path4, #flag-ws .path5, #flag-ws .path6 {
-  fill: #fff; }
+#flag-ws .path3,
+#flag-ws .path4,
+#flag-ws .path5,
+#flag-ws .path6 {
+  fill: #fff;
+}
 
 .flag-ye {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-ye .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-ye .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-ye .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-za {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-za .path1, #flag-za .path2 {
-  fill: #fff; }
+#flag-za .path1,
+#flag-za .path2 {
+  fill: #fff;
+}
 
 #flag-za .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-za .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-za .path5 {
-  fill: rgba(27, 48, 28, 0.29); }
+  fill: rgba(27, 48, 28, 0.29);
+}
 
 #flag-za .path6 {
-  fill: rgba(35, 25, 43, 0.29); }
+  fill: rgba(35, 25, 43, 0.29);
+}
 
 #flag-za .path7 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-za .path8 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-za .path9 {
-  fill: #708058; }
+  fill: #708058;
+}
 
 #flag-za .path10 {
-  fill: rgba(64, 69, 65, 0.29); }
+  fill: rgba(64, 69, 65, 0.29);
+}
 
 #flag-za .path11 {
-  fill: #707957; }
+  fill: #707957;
+}
 
 #flag-za .path12 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-za .path13 {
-  fill: rgba(20, 25, 49, 0.29); }
+  fill: rgba(20, 25, 49, 0.29);
+}
 
 #flag-za .path14 {
-  fill: #6f9f5e; }
+  fill: #6f9f5e;
+}
 
 .flag-zm {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-zm .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
-#flag-zm .path2, #flag-zm .path3 {
-  fill: #f6d660; }
+#flag-zm .path2,
+#flag-zm .path3 {
+  fill: #f6d660;
+}
 
 #flag-zm .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-zm .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-zm .path6 {
-  fill: rgba(30, 58, 36, 0.4); }
+  fill: rgba(30, 58, 36, 0.4);
+}
 
 #flag-zm .path7 {
-  fill: rgba(58, 79, 38, 0.4); }
+  fill: rgba(58, 79, 38, 0.4);
+}
 
 .flag-zw {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-zw .path1, #flag-zw .path2 {
-  fill: #52c162; }
+#flag-zw .path1,
+#flag-zw .path2 {
+  fill: #52c162;
+}
 
 #flag-zw .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-zw .path4, #flag-zw .path5 {
-  fill: #f6bb42; }
+#flag-zw .path4,
+#flag-zw .path5 {
+  fill: #f6bb42;
+}
 
-#flag-zw .path6, #flag-zw .path7 {
-  fill: #ed5565; }
+#flag-zw .path6,
+#flag-zw .path7 {
+  fill: #ed5565;
+}
 
 #flag-zw .path8 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-Afghanistan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Afghanistan .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Afghanistan .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Afghanistan .path3 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-Afghanistan .path4, #flag-Afghanistan .path5, #flag-Afghanistan .path6, #flag-Afghanistan .path7, #flag-Afghanistan .path8, #flag-Afghanistan .path9, #flag-Afghanistan .path10, #flag-Afghanistan .path11, #flag-Afghanistan .path12, #flag-Afghanistan .path13, #flag-Afghanistan .path14, #flag-Afghanistan .path15, #flag-Afghanistan .path16, #flag-Afghanistan .path17 {
-  fill: #fff; }
+#flag-Afghanistan .path4,
+#flag-Afghanistan .path5,
+#flag-Afghanistan .path6,
+#flag-Afghanistan .path7,
+#flag-Afghanistan .path8,
+#flag-Afghanistan .path9,
+#flag-Afghanistan .path10,
+#flag-Afghanistan .path11,
+#flag-Afghanistan .path12,
+#flag-Afghanistan .path13,
+#flag-Afghanistan .path14,
+#flag-Afghanistan .path15,
+#flag-Afghanistan .path16,
+#flag-Afghanistan .path17 {
+  fill: #fff;
+}
 
 .flag-Albania {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Albania .path1, #flag-Albania .path2, #flag-Albania .path3 {
-  fill: #ed5565; }
+#flag-Albania .path1,
+#flag-Albania .path2,
+#flag-Albania .path3 {
+  fill: #ed5565;
+}
 
 #flag-Albania .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-Algeria {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Algeria .path1, #flag-Algeria .path2 {
-  fill: #57a863; }
+#flag-Algeria .path1,
+#flag-Algeria .path2 {
+  fill: #57a863;
+}
 
 #flag-Algeria .path3 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-Algeria .path4, #flag-Algeria .path5 {
-  fill: #ed5565; }
+#flag-Algeria .path4,
+#flag-Algeria .path5 {
+  fill: #ed5565;
+}
 
 .flag-Andorra {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Andorra .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Andorra .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Andorra .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-AntiguaandBarbuda {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-AntiguaandBarbuda .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-AntiguaandBarbuda .path2, #flag-AntiguaandBarbuda .path3 {
-  fill: #ed5565; }
+#flag-AntiguaandBarbuda .path2,
+#flag-AntiguaandBarbuda .path3 {
+  fill: #ed5565;
+}
 
 #flag-AntiguaandBarbuda .path4 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-AntiguaandBarbuda .path5 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-AntiguaandBarbuda .path6 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Argentina {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Argentina .path1, #flag-Argentina .path2 {
-  fill: #8cbae2; }
+#flag-Argentina .path1,
+#flag-Argentina .path2 {
+  fill: #8cbae2;
+}
 
 #flag-Argentina .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Argentina .path4 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 .flag-Armenia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Armenia .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Armenia .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Armenia .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-Australia {
-  width: 1.4873046875em; }
+  width: 1.4873046875em;
+}
 
 #flag-Australia .path1 {
-  fill: rgba(82, 77, 113, 0.64); }
+  fill: rgba(82, 77, 113, 0.64);
+}
 
-#flag-Australia .path2, #flag-Australia .path3, #flag-Australia .path4, #flag-Australia .path5, #flag-Australia .path6 {
-  fill: #4758a9; }
+#flag-Australia .path2,
+#flag-Australia .path3,
+#flag-Australia .path4,
+#flag-Australia .path5,
+#flag-Australia .path6 {
+  fill: #4758a9;
+}
 
-#flag-Australia .path7, #flag-Australia .path8, #flag-Australia .path9, #flag-Australia .path10, #flag-Australia .path11, #flag-Australia .path12, #flag-Australia .path13, #flag-Australia .path14, #flag-Australia .path15, #flag-Australia .path16, #flag-Australia .path17, #flag-Australia .path18 {
-  fill: #fff; }
+#flag-Australia .path7,
+#flag-Australia .path8,
+#flag-Australia .path9,
+#flag-Australia .path10,
+#flag-Australia .path11,
+#flag-Australia .path12,
+#flag-Australia .path13,
+#flag-Australia .path14,
+#flag-Australia .path15,
+#flag-Australia .path16,
+#flag-Australia .path17,
+#flag-Australia .path18 {
+  fill: #fff;
+}
 
 #flag-Australia .path19 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Australia .path20 {
-  fill: rgba(84, 79, 116, 0.65); }
+  fill: rgba(84, 79, 116, 0.65);
+}
 
 #flag-Australia .path21 {
-  fill: rgba(18, 23, 45, 0.27); }
+  fill: rgba(18, 23, 45, 0.27);
+}
 
 .flag-Austria {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Austria .path1, #flag-Austria .path2 {
-  fill: #ed5565; }
+#flag-Austria .path1,
+#flag-Austria .path2 {
+  fill: #ed5565;
+}
 
 #flag-Austria .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Azerbaijan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Azerbaijan .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Azerbaijan .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Azerbaijan .path3, #flag-Azerbaijan .path4 {
-  fill: #fff; }
+#flag-Azerbaijan .path3,
+#flag-Azerbaijan .path4 {
+  fill: #fff;
+}
 
 #flag-Azerbaijan .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Bahamas {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Bahamas .path1, #flag-Bahamas .path2 {
-  fill: #3bafda; }
+#flag-Bahamas .path1,
+#flag-Bahamas .path2 {
+  fill: #3bafda;
+}
 
 #flag-Bahamas .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Bahamas .path4 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-Bahrain {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Bahrain .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Bahrain .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Bangladesh {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Bangladesh .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Bangladesh .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Barbados {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Barbados .path1, #flag-Barbados .path2 {
-  fill: #4758a9; }
+#flag-Barbados .path1,
+#flag-Barbados .path2 {
+  fill: #4758a9;
+}
 
 #flag-Barbados .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Barbados .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-Belarus {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Belarus .path1 {
-  fill: rgba(173, 63, 75, 0.73); }
+  fill: rgba(173, 63, 75, 0.73);
+}
 
-#flag-Belarus .path2, #flag-Belarus .path3, #flag-Belarus .path4, #flag-Belarus .path5, #flag-Belarus .path6, #flag-Belarus .path7, #flag-Belarus .path8, #flag-Belarus .path9, #flag-Belarus .path10, #flag-Belarus .path11, #flag-Belarus .path12, #flag-Belarus .path13, #flag-Belarus .path14, #flag-Belarus .path15, #flag-Belarus .path16, #flag-Belarus .path17, #flag-Belarus .path18, #flag-Belarus .path19, #flag-Belarus .path20, #flag-Belarus .path21, #flag-Belarus .path22, #flag-Belarus .path23, #flag-Belarus .path24, #flag-Belarus .path25, #flag-Belarus .path26, #flag-Belarus .path27, #flag-Belarus .path28, #flag-Belarus .path29, #flag-Belarus .path30, #flag-Belarus .path31, #flag-Belarus .path32, #flag-Belarus .path33, #flag-Belarus .path34 {
-  fill: #f5f7fa; }
+#flag-Belarus .path2,
+#flag-Belarus .path3,
+#flag-Belarus .path4,
+#flag-Belarus .path5,
+#flag-Belarus .path6,
+#flag-Belarus .path7,
+#flag-Belarus .path8,
+#flag-Belarus .path9,
+#flag-Belarus .path10,
+#flag-Belarus .path11,
+#flag-Belarus .path12,
+#flag-Belarus .path13,
+#flag-Belarus .path14,
+#flag-Belarus .path15,
+#flag-Belarus .path16,
+#flag-Belarus .path17,
+#flag-Belarus .path18,
+#flag-Belarus .path19,
+#flag-Belarus .path20,
+#flag-Belarus .path21,
+#flag-Belarus .path22,
+#flag-Belarus .path23,
+#flag-Belarus .path24,
+#flag-Belarus .path25,
+#flag-Belarus .path26,
+#flag-Belarus .path27,
+#flag-Belarus .path28,
+#flag-Belarus .path29,
+#flag-Belarus .path30,
+#flag-Belarus .path31,
+#flag-Belarus .path32,
+#flag-Belarus .path33,
+#flag-Belarus .path34 {
+  fill: #f5f7fa;
+}
 
 #flag-Belarus .path35 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Belarus .path36 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Belarus .path37 {
-  fill: rgba(152, 74, 74, 0.73); }
+  fill: rgba(152, 74, 74, 0.73);
+}
 
 .flag-Belgium {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Belgium .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Belgium .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Belgium .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Belize {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Belize .path1, #flag-Belize .path2 {
-  fill: #ed5565; }
+#flag-Belize .path1,
+#flag-Belize .path2 {
+  fill: #ed5565;
+}
 
 #flag-Belize .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-Belize .path4, #flag-Belize .path5 {
-  fill: #f5f7fa; }
+#flag-Belize .path4,
+#flag-Belize .path5 {
+  fill: #f5f7fa;
+}
 
 #flag-Belize .path6 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Belize .path7 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-Benin {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Benin .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Benin .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Benin .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Bhutan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Bhutan .path1, #flag-Bhutan .path2, #flag-Bhutan .path3, #flag-Bhutan .path4 {
-  fill: #f6d660; }
+#flag-Bhutan .path1,
+#flag-Bhutan .path2,
+#flag-Bhutan .path3,
+#flag-Bhutan .path4 {
+  fill: #f6d660;
+}
 
-#flag-Bhutan .path5, #flag-Bhutan .path6 {
-  fill: #ed5565; }
+#flag-Bhutan .path5,
+#flag-Bhutan .path6 {
+  fill: #ed5565;
+}
 
 #flag-Bhutan .path7 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-Bolivia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Bolivia .path1, #flag-Bolivia .path2 {
-  fill: #ed5565; }
+#flag-Bolivia .path1,
+#flag-Bolivia .path2 {
+  fill: #ed5565;
+}
 
 #flag-Bolivia .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Bolivia .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-BosniaandHerzegovina {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-BosniaandHerzegovina .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-BosniaandHerzegovina .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
-#flag-BosniaandHerzegovina .path3, #flag-BosniaandHerzegovina .path4, #flag-BosniaandHerzegovina .path5, #flag-BosniaandHerzegovina .path6, #flag-BosniaandHerzegovina .path7, #flag-BosniaandHerzegovina .path8, #flag-BosniaandHerzegovina .path9, #flag-BosniaandHerzegovina .path10 {
-  fill: #fff; }
+#flag-BosniaandHerzegovina .path3,
+#flag-BosniaandHerzegovina .path4,
+#flag-BosniaandHerzegovina .path5,
+#flag-BosniaandHerzegovina .path6,
+#flag-BosniaandHerzegovina .path7,
+#flag-BosniaandHerzegovina .path8,
+#flag-BosniaandHerzegovina .path9,
+#flag-BosniaandHerzegovina .path10 {
+  fill: #fff;
+}
 
 .flag-Botswana {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Botswana .path1, #flag-Botswana .path2 {
-  fill: #3bafda; }
+#flag-Botswana .path1,
+#flag-Botswana .path2 {
+  fill: #3bafda;
+}
 
-#flag-Botswana .path3, #flag-Botswana .path4 {
-  fill: #f5f7fa; }
+#flag-Botswana .path3,
+#flag-Botswana .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-Botswana .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-Brazil {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Brazil .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-Brazil .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Brazil .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Brazil .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Brunei {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
-#flag-Brunei .path1, #flag-Brunei .path2 {
-  fill: #ffce54; }
+#flag-Brunei .path1,
+#flag-Brunei .path2 {
+  fill: #ffce54;
+}
 
-#flag-Brunei .path3, #flag-Brunei .path4, #flag-Brunei .path5, #flag-Brunei .path6 {
-  fill: #f5f7fa; }
+#flag-Brunei .path3,
+#flag-Brunei .path4,
+#flag-Brunei .path5,
+#flag-Brunei .path6 {
+  fill: #f5f7fa;
+}
 
-#flag-Brunei .path7, #flag-Brunei .path8 {
-  fill: rgba(30, 24, 9, 0.12); }
+#flag-Brunei .path7,
+#flag-Brunei .path8 {
+  fill: rgba(30, 24, 9, 0.12);
+}
 
-#flag-Brunei .path9, #flag-Brunei .path10, #flag-Brunei .path11 {
-  fill: #ed5565; }
+#flag-Brunei .path9,
+#flag-Brunei .path10,
+#flag-Brunei .path11 {
+  fill: #ed5565;
+}
 
 #flag-Brunei .path12 {
-  fill: rgba(7, 8, 9, 0.12); }
+  fill: rgba(7, 8, 9, 0.12);
+}
 
-#flag-Brunei .path13, #flag-Brunei .path14, #flag-Brunei .path15, #flag-Brunei .path16 {
-  fill: #434a54; }
+#flag-Brunei .path13,
+#flag-Brunei .path14,
+#flag-Brunei .path15,
+#flag-Brunei .path16 {
+  fill: #434a54;
+}
 
 #flag-Brunei .path17 {
-  fill: rgba(28, 29, 29, 0.12); }
+  fill: rgba(28, 29, 29, 0.12);
+}
 
 #flag-Brunei .path18 {
-  fill: rgba(17, 13, 5, 0.07); }
+  fill: rgba(17, 13, 5, 0.07);
+}
 
 .flag-Bulgaria {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Bulgaria .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Bulgaria .path2 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-Bulgaria .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-BurkinaFaso {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-BurkinaFaso .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-BurkinaFaso .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-BurkinaFaso .path3 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-Burundi {
-  width: 1.4697265625em; }
+  width: 1.4697265625em;
+}
 
 #flag-Burundi .path1 {
-  fill: rgba(47, 17, 20, 0.2); }
+  fill: rgba(47, 17, 20, 0.2);
+}
 
-#flag-Burundi .path2, #flag-Burundi .path3, #flag-Burundi .path4, #flag-Burundi .path5, #flag-Burundi .path6 {
-  fill: #ed5565; }
+#flag-Burundi .path2,
+#flag-Burundi .path3,
+#flag-Burundi .path4,
+#flag-Burundi .path5,
+#flag-Burundi .path6 {
+  fill: #ed5565;
+}
 
 #flag-Burundi .path7 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Burundi .path8, #flag-Burundi .path9 {
-  fill: #52c162; }
+#flag-Burundi .path8,
+#flag-Burundi .path9 {
+  fill: #52c162;
+}
 
 #flag-Burundi .path10 {
-  fill: rgba(4, 11, 5, 0.06); }
+  fill: rgba(4, 11, 5, 0.06);
+}
 
 #flag-Burundi .path11 {
-  fill: rgba(13, 5, 5, 0.06); }
+  fill: rgba(13, 5, 5, 0.06);
+}
 
 .flag-Cambodia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Cambodia .path1, #flag-Cambodia .path2 {
-  fill: #ed5565; }
+#flag-Cambodia .path1,
+#flag-Cambodia .path2 {
+  fill: #ed5565;
+}
 
 #flag-Cambodia .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Cambodia .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Cameroon {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Cameroon .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-Cameroon .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Cameroon .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-Cameroon .path4 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-Cameroon .path5 {
-  fill: rgba(95, 40, 39, 0.4); }
+  fill: rgba(95, 40, 39, 0.4);
+}
 
 .flag-Canada {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Canada .path1, #flag-Canada .path2, #flag-Canada .path3 {
-  fill: #ed5565; }
+#flag-Canada .path1,
+#flag-Canada .path2,
+#flag-Canada .path3 {
+  fill: #ed5565;
+}
 
 #flag-Canada .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-CapeVerde {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-CapeVerde .path1, #flag-CapeVerde .path2 {
-  fill: #4758a9; }
+#flag-CapeVerde .path1,
+#flag-CapeVerde .path2 {
+  fill: #4758a9;
+}
 
-#flag-CapeVerde .path3, #flag-CapeVerde .path4, #flag-CapeVerde .path5, #flag-CapeVerde .path6, #flag-CapeVerde .path7, #flag-CapeVerde .path8, #flag-CapeVerde .path9, #flag-CapeVerde .path10 {
-  fill: #f6d660; }
+#flag-CapeVerde .path3,
+#flag-CapeVerde .path4,
+#flag-CapeVerde .path5,
+#flag-CapeVerde .path6,
+#flag-CapeVerde .path7,
+#flag-CapeVerde .path8,
+#flag-CapeVerde .path9,
+#flag-CapeVerde .path10 {
+  fill: #f6d660;
+}
 
-#flag-CapeVerde .path11, #flag-CapeVerde .path12, #flag-CapeVerde .path13, #flag-CapeVerde .path14, #flag-CapeVerde .path15, #flag-CapeVerde .path16 {
-  fill: #f5f7fa; }
+#flag-CapeVerde .path11,
+#flag-CapeVerde .path12,
+#flag-CapeVerde .path13,
+#flag-CapeVerde .path14,
+#flag-CapeVerde .path15,
+#flag-CapeVerde .path16 {
+  fill: #f5f7fa;
+}
 
 #flag-CapeVerde .path17 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-CentralAfricanRepublic {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-CentralAfricanRepublic .path1, #flag-CentralAfricanRepublic .path2 {
-  fill: #4758a9; }
+#flag-CentralAfricanRepublic .path1,
+#flag-CentralAfricanRepublic .path2 {
+  fill: #4758a9;
+}
 
 #flag-CentralAfricanRepublic .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-CentralAfricanRepublic .path4, #flag-CentralAfricanRepublic .path5, #flag-CentralAfricanRepublic .path6 {
-  fill: #f6d660; }
+#flag-CentralAfricanRepublic .path4,
+#flag-CentralAfricanRepublic .path5,
+#flag-CentralAfricanRepublic .path6 {
+  fill: #f6d660;
+}
 
-#flag-CentralAfricanRepublic .path7, #flag-CentralAfricanRepublic .path8 {
-  fill: #fff; }
+#flag-CentralAfricanRepublic .path7,
+#flag-CentralAfricanRepublic .path8 {
+  fill: #fff;
+}
 
-#flag-CentralAfricanRepublic .path9, #flag-CentralAfricanRepublic .path10 {
-  fill: #52c162; }
+#flag-CentralAfricanRepublic .path9,
+#flag-CentralAfricanRepublic .path10 {
+  fill: #52c162;
+}
 
 #flag-CentralAfricanRepublic .path11 {
-  fill: rgba(67, 63, 54, 0.27); }
+  fill: rgba(67, 63, 54, 0.27);
+}
 
 .flag-Chad {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Chad .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Chad .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-Chad .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Chile {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Chile .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Chile .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Chile .path3 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-Chile .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-China {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-China .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-China .path2, #flag-China .path3, #flag-China .path4, #flag-China .path5, #flag-China .path6 {
-  fill: #f6bb42; }
+#flag-China .path2,
+#flag-China .path3,
+#flag-China .path4,
+#flag-China .path5,
+#flag-China .path6 {
+  fill: #f6bb42;
+}
 
 .flag-Colombia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Colombia .path1 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-Colombia .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Colombia .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Comoros {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Comoros .path1 {
-  fill: #f2d660; }
+  fill: #f2d660;
+}
 
 #flag-Comoros .path2 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
-#flag-Comoros .path3, #flag-Comoros .path4, #flag-Comoros .path5, #flag-Comoros .path6, #flag-Comoros .path7, #flag-Comoros .path8 {
-  fill: #fff; }
+#flag-Comoros .path3,
+#flag-Comoros .path4,
+#flag-Comoros .path5,
+#flag-Comoros .path6,
+#flag-Comoros .path7,
+#flag-Comoros .path8 {
+  fill: #fff;
+}
 
 #flag-Comoros .path9 {
-  fill: rgba(93, 148, 101, 0.71); }
+  fill: rgba(93, 148, 101, 0.71);
+}
 
 #flag-Comoros .path10 {
-  fill: rgba(83, 124, 82, 0.71); }
+  fill: rgba(83, 124, 82, 0.71);
+}
 
 #flag-Comoros .path11 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Comoros .path12 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Comoros .path13 {
-  fill: rgba(86, 96, 148, 0.8); }
+  fill: rgba(86, 96, 148, 0.8);
+}
 
 .flag-CongoDemocratic {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-CongoDemocratic .path1 {
-  fill: rgba(4, 5, 11, 0.07); }
+  fill: rgba(4, 5, 11, 0.07);
+}
 
-#flag-CongoDemocratic .path2, #flag-CongoDemocratic .path3 {
-  fill: #4758a9; }
+#flag-CongoDemocratic .path2,
+#flag-CongoDemocratic .path3 {
+  fill: #4758a9;
+}
 
-#flag-CongoDemocratic .path4, #flag-CongoDemocratic .path5 {
-  fill: #f2d660; }
+#flag-CongoDemocratic .path4,
+#flag-CongoDemocratic .path5 {
+  fill: #f2d660;
+}
 
 #flag-CongoDemocratic .path6 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-CongoDemocratic .path7 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
-#flag-CongoDemocratic .path8, #flag-CongoDemocratic .path9 {
-  fill: rgba(8, 10, 19, 0.12); }
+#flag-CongoDemocratic .path8,
+#flag-CongoDemocratic .path9 {
+  fill: rgba(8, 10, 19, 0.12);
+}
 
 .flag-CongoRepublic {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-CongoRepublic .path1 {
-  fill: rgba(5, 12, 6, 0.07); }
+  fill: rgba(5, 12, 6, 0.07);
+}
 
 #flag-CongoRepublic .path2 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-CongoRepublic .path3 {
-  fill: #f2d660; }
+  fill: #f2d660;
+}
 
 #flag-CongoRepublic .path4 {
-  fill: rgba(9, 22, 11, 0.12); }
+  fill: rgba(9, 22, 11, 0.12);
+}
 
 #flag-CongoRepublic .path5 {
-  fill: rgba(12, 21, 11, 0.12); }
+  fill: rgba(12, 21, 11, 0.12);
+}
 
 #flag-CongoRepublic .path6 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-CostaRica {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-CostaRica .path1, #flag-CostaRica .path2 {
-  fill: #4758a9; }
+#flag-CostaRica .path1,
+#flag-CostaRica .path2 {
+  fill: #4758a9;
+}
 
-#flag-CostaRica .path3, #flag-CostaRica .path4 {
-  fill: #f5f7fa; }
+#flag-CostaRica .path3,
+#flag-CostaRica .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-CostaRica .path5 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-CotedIvoire {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-CotedIvoire .path1 {
-  fill: #ffad54; }
+  fill: #ffad54;
+}
 
 #flag-CotedIvoire .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-CotedIvoire .path3 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-Croatia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Croatia .path1, #flag-Croatia .path2 {
-  fill: #ed5565; }
+#flag-Croatia .path1,
+#flag-Croatia .path2 {
+  fill: #ed5565;
+}
 
 #flag-Croatia .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Croatia .path4 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 .flag-Cuba {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Cuba .path1, #flag-Cuba .path2, #flag-Cuba .path3 {
-  fill: #4758a9; }
+#flag-Cuba .path1,
+#flag-Cuba .path2,
+#flag-Cuba .path3 {
+  fill: #4758a9;
+}
 
 #flag-Cuba .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Cuba .path5, #flag-Cuba .path6, #flag-Cuba .path7 {
-  fill: #f5f7fa; }
+#flag-Cuba .path5,
+#flag-Cuba .path6,
+#flag-Cuba .path7 {
+  fill: #f5f7fa;
+}
 
 .flag-Cyprus {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Cyprus .path1, #flag-Cyprus .path2, #flag-Cyprus .path3, #flag-Cyprus .path4 {
-  fill: #ed5565; }
+#flag-Cyprus .path1,
+#flag-Cyprus .path2,
+#flag-Cyprus .path3,
+#flag-Cyprus .path4 {
+  fill: #ed5565;
+}
 
 #flag-Cyprus .path5 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-CzechRepublic {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-CzechRepublic .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-CzechRepublic .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-CzechRepublic .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-CzechRepublic .path4, #flag-CzechRepublic .path5 {
-  fill: rgba(95, 35, 41, 0.4); }
+#flag-CzechRepublic .path4,
+#flag-CzechRepublic .path5 {
+  fill: rgba(95, 35, 41, 0.4);
+}
 
 #flag-CzechRepublic .path6 {
-  fill: rgba(153, 92, 100, 0.64); }
+  fill: rgba(153, 92, 100, 0.64);
+}
 
 .flag-Denmark {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Denmark .path1, #flag-Denmark .path2, #flag-Denmark .path3, #flag-Denmark .path4 {
-  fill: #ed5565; }
+#flag-Denmark .path1,
+#flag-Denmark .path2,
+#flag-Denmark .path3,
+#flag-Denmark .path4 {
+  fill: #ed5565;
+}
 
 #flag-Denmark .path5 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-Djibouti {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Djibouti .path1 {
-  fill: #8cbae2; }
+  fill: #8cbae2;
+}
 
 #flag-Djibouti .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Djibouti .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Djibouti .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-Dominica {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Dominica .path1, #flag-Dominica .path2, #flag-Dominica .path3, #flag-Dominica .path4 {
-  fill: #52c162; }
+#flag-Dominica .path1,
+#flag-Dominica .path2,
+#flag-Dominica .path3,
+#flag-Dominica .path4 {
+  fill: #52c162;
+}
 
-#flag-Dominica .path5, #flag-Dominica .path6, #flag-Dominica .path7, #flag-Dominica .path8 {
-  fill: #f6bb42; }
+#flag-Dominica .path5,
+#flag-Dominica .path6,
+#flag-Dominica .path7,
+#flag-Dominica .path8 {
+  fill: #f6bb42;
+}
 
 #flag-Dominica .path9 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Dominica .path10, #flag-Dominica .path11, #flag-Dominica .path12, #flag-Dominica .path13 {
-  fill: #434a54; }
+#flag-Dominica .path10,
+#flag-Dominica .path11,
+#flag-Dominica .path12,
+#flag-Dominica .path13 {
+  fill: #434a54;
+}
 
-#flag-Dominica .path14, #flag-Dominica .path15, #flag-Dominica .path16, #flag-Dominica .path17 {
-  fill: #fff; }
+#flag-Dominica .path14,
+#flag-Dominica .path15,
+#flag-Dominica .path16,
+#flag-Dominica .path17 {
+  fill: #fff;
+}
 
 .flag-DominicanRepublic {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-DominicanRepublic .path1, #flag-DominicanRepublic .path2 {
-  fill: #4758a9; }
+#flag-DominicanRepublic .path1,
+#flag-DominicanRepublic .path2 {
+  fill: #4758a9;
+}
 
-#flag-DominicanRepublic .path3, #flag-DominicanRepublic .path4 {
-  fill: #fff; }
+#flag-DominicanRepublic .path3,
+#flag-DominicanRepublic .path4 {
+  fill: #fff;
+}
 
-#flag-DominicanRepublic .path5, #flag-DominicanRepublic .path6 {
-  fill: #ed5565; }
+#flag-DominicanRepublic .path5,
+#flag-DominicanRepublic .path6 {
+  fill: #ed5565;
+}
 
 #flag-DominicanRepublic .path7 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-EastTimor {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-EastTimor .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-EastTimor .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-EastTimor .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-EastTimor .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Ecuador {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Ecuador .path1, #flag-Ecuador .path2 {
-  fill: #f2d660; }
+#flag-Ecuador .path1,
+#flag-Ecuador .path2 {
+  fill: #f2d660;
+}
 
 #flag-Ecuador .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Ecuador .path4, #flag-Ecuador .path5 {
-  fill: #4758a9; }
+#flag-Ecuador .path4,
+#flag-Ecuador .path5 {
+  fill: #4758a9;
+}
 
 #flag-Ecuador .path6 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Egypt {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Egypt .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Egypt .path2 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-Egypt .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-Egypt .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Egypt .path5 {
-  fill: rgba(26, 29, 33, 0.4); }
+  fill: rgba(26, 29, 33, 0.4);
+}
 
 .flag-ElSalvador {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-ElSalvador .path1, #flag-ElSalvador .path2 {
-  fill: #4a89dc; }
+#flag-ElSalvador .path1,
+#flag-ElSalvador .path2 {
+  fill: #4a89dc;
+}
 
-#flag-ElSalvador .path3, #flag-ElSalvador .path4 {
-  fill: #f5f7fa; }
+#flag-ElSalvador .path3,
+#flag-ElSalvador .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-ElSalvador .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-EquatorialGuinea {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-EquatorialGuinea .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-EquatorialGuinea .path2 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-EquatorialGuinea .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-EquatorialGuinea .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Eritrea {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Eritrea .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-Eritrea .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Eritrea .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Eritrea .path4 {
-  fill: #8cbae2; }
+  fill: #8cbae2;
+}
 
 .flag-Estonia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Estonia .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-Estonia .path2 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Estonia .path3 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-Ethiopia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Ethiopia .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
-#flag-Ethiopia .path2, #flag-Ethiopia .path3 {
-  fill: #8cbae2; }
+#flag-Ethiopia .path2,
+#flag-Ethiopia .path3 {
+  fill: #8cbae2;
+}
 
-#flag-Ethiopia .path4, #flag-Ethiopia .path5, #flag-Ethiopia .path6 {
-  fill: #ffce54; }
+#flag-Ethiopia .path4,
+#flag-Ethiopia .path5,
+#flag-Ethiopia .path6 {
+  fill: #ffce54;
+}
 
 #flag-Ethiopia .path7 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Fiji {
-  width: 1.4873046875em; }
+  width: 1.4873046875em;
+}
 
 #flag-Fiji .path1 {
-  fill: rgba(82, 77, 113, 0.64); }
+  fill: rgba(82, 77, 113, 0.64);
+}
 
-#flag-Fiji .path2, #flag-Fiji .path3, #flag-Fiji .path4, #flag-Fiji .path5, #flag-Fiji .path6 {
-  fill: #4758a9; }
+#flag-Fiji .path2,
+#flag-Fiji .path3,
+#flag-Fiji .path4,
+#flag-Fiji .path5,
+#flag-Fiji .path6 {
+  fill: #4758a9;
+}
 
-#flag-Fiji .path7, #flag-Fiji .path8, #flag-Fiji .path9, #flag-Fiji .path10, #flag-Fiji .path11, #flag-Fiji .path12, #flag-Fiji .path13 {
-  fill: #fff; }
+#flag-Fiji .path7,
+#flag-Fiji .path8,
+#flag-Fiji .path9,
+#flag-Fiji .path10,
+#flag-Fiji .path11,
+#flag-Fiji .path12,
+#flag-Fiji .path13 {
+  fill: #fff;
+}
 
-#flag-Fiji .path14, #flag-Fiji .path15 {
-  fill: #ed5565; }
+#flag-Fiji .path14,
+#flag-Fiji .path15 {
+  fill: #ed5565;
+}
 
 #flag-Fiji .path16 {
-  fill: rgba(84, 79, 116, 0.65); }
+  fill: rgba(84, 79, 116, 0.65);
+}
 
-#flag-Fiji .path17, #flag-Fiji .path18, #flag-Fiji .path19, #flag-Fiji .path20 {
-  fill: #f5f7fa; }
+#flag-Fiji .path17,
+#flag-Fiji .path18,
+#flag-Fiji .path19,
+#flag-Fiji .path20 {
+  fill: #f5f7fa;
+}
 
 #flag-Fiji .path21 {
-  fill: rgba(18, 23, 45, 0.27); }
+  fill: rgba(18, 23, 45, 0.27);
+}
 
 .flag-Finland {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Finland .path1, #flag-Finland .path2, #flag-Finland .path3, #flag-Finland .path4 {
-  fill: #f5f7fa; }
+#flag-Finland .path1,
+#flag-Finland .path2,
+#flag-Finland .path3,
+#flag-Finland .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-Finland .path5 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 .flag-France {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-France .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-France .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-France .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Gabon {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Gabon .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-Gabon .path2 {
-  fill: #f2d660; }
+  fill: #f2d660;
+}
 
 #flag-Gabon .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 .flag-Gambia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Gambia .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Gambia .path2, #flag-Gambia .path3 {
-  fill: #fff; }
+#flag-Gambia .path2,
+#flag-Gambia .path3 {
+  fill: #fff;
+}
 
 #flag-Gambia .path4 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Gambia .path5 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-Georgia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Georgia .path1, #flag-Georgia .path2, #flag-Georgia .path3, #flag-Georgia .path4 {
-  fill: #fff; }
+#flag-Georgia .path1,
+#flag-Georgia .path2,
+#flag-Georgia .path3,
+#flag-Georgia .path4 {
+  fill: #fff;
+}
 
-#flag-Georgia .path5, #flag-Georgia .path6, #flag-Georgia .path7, #flag-Georgia .path8, #flag-Georgia .path9 {
-  fill: #ed5565; }
+#flag-Georgia .path5,
+#flag-Georgia .path6,
+#flag-Georgia .path7,
+#flag-Georgia .path8,
+#flag-Georgia .path9 {
+  fill: #ed5565;
+}
 
 #flag-Georgia .path10 {
-  fill: rgba(101, 95, 96, 0.4); }
+  fill: rgba(101, 95, 96, 0.4);
+}
 
 .flag-Germany {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Germany .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Germany .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Germany .path3 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 .flag-Ghana {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Ghana .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Ghana .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Ghana .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Ghana .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-Grecee {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Grecee .path1, #flag-Grecee .path2, #flag-Grecee .path3, #flag-Grecee .path4 {
-  fill: #4a89dc; }
+#flag-Grecee .path1,
+#flag-Grecee .path2,
+#flag-Grecee .path3,
+#flag-Grecee .path4 {
+  fill: #4a89dc;
+}
 
 #flag-Grecee .path5 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-Grecee .path6, #flag-Grecee .path7, #flag-Grecee .path8, #flag-Grecee .path9 {
-  fill: #f5f7fa; }
+#flag-Grecee .path6,
+#flag-Grecee .path7,
+#flag-Grecee .path8,
+#flag-Grecee .path9 {
+  fill: #f5f7fa;
+}
 
 .flag-Grenada {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-Grenada .path1, #flag-Grenada .path2 {
-  fill: #ed5565; }
+#flag-Grenada .path1,
+#flag-Grenada .path2 {
+  fill: #ed5565;
+}
 
-#flag-Grenada .path3, #flag-Grenada .path4, #flag-Grenada .path5, #flag-Grenada .path6, #flag-Grenada .path7, #flag-Grenada .path8, #flag-Grenada .path9, #flag-Grenada .path10, #flag-Grenada .path11 {
-  fill: #f6d660; }
+#flag-Grenada .path3,
+#flag-Grenada .path4,
+#flag-Grenada .path5,
+#flag-Grenada .path6,
+#flag-Grenada .path7,
+#flag-Grenada .path8,
+#flag-Grenada .path9,
+#flag-Grenada .path10,
+#flag-Grenada .path11 {
+  fill: #f6d660;
+}
 
 #flag-Grenada .path12 {
-  fill: rgba(27, 10, 11, 0.12); }
+  fill: rgba(27, 10, 11, 0.12);
+}
 
-#flag-Grenada .path13, #flag-Grenada .path14 {
-  fill: #52c162; }
+#flag-Grenada .path13,
+#flag-Grenada .path14 {
+  fill: #52c162;
+}
 
 .flag-Guatemala {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Guatemala .path1, #flag-Guatemala .path2 {
-  fill: #8cbae2; }
+#flag-Guatemala .path1,
+#flag-Guatemala .path2 {
+  fill: #8cbae2;
+}
 
 #flag-Guatemala .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Guatemala .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-Guatemala .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-Guinea-Bissau {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Guinea-Bissau .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Guinea-Bissau .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Guinea-Bissau .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Guinea-Bissau .path4 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-Guinea {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Guinea .path1 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Guinea .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Guinea .path3 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-Guinea .path4 {
-  fill: rgba(29, 48, 26, 0.27); }
+  fill: rgba(29, 48, 26, 0.27);
+}
 
 .flag-Guyana {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Guyana .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-Guyana .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Guyana .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Guyana .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Guyana .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-Haiti {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Haiti .path1, #flag-Haiti .path2, #flag-Haiti .path3 {
-  fill: #4758a9; }
+#flag-Haiti .path1,
+#flag-Haiti .path2,
+#flag-Haiti .path3 {
+  fill: #4758a9;
+}
 
 #flag-Haiti .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Haiti .path5, #flag-Haiti .path6, #flag-Haiti .path7, #flag-Haiti .path8, #flag-Haiti .path9, #flag-Haiti .path10 {
-  fill: #57a863; }
+#flag-Haiti .path5,
+#flag-Haiti .path6,
+#flag-Haiti .path7,
+#flag-Haiti .path8,
+#flag-Haiti .path9,
+#flag-Haiti .path10 {
+  fill: #57a863;
+}
 
 #flag-Haiti .path11 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Honduras {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Honduras .path1, #flag-Honduras .path2, #flag-Honduras .path3, #flag-Honduras .path4, #flag-Honduras .path5, #flag-Honduras .path6, #flag-Honduras .path7 {
-  fill: #3bafda; }
+#flag-Honduras .path1,
+#flag-Honduras .path2,
+#flag-Honduras .path3,
+#flag-Honduras .path4,
+#flag-Honduras .path5,
+#flag-Honduras .path6,
+#flag-Honduras .path7 {
+  fill: #3bafda;
+}
 
 #flag-Honduras .path8 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Hungary {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Hungary .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Hungary .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Hungary .path3 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Iceland {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Iceland .path1, #flag-Iceland .path2, #flag-Iceland .path3, #flag-Iceland .path4 {
-  fill: #4758a9; }
+#flag-Iceland .path1,
+#flag-Iceland .path2,
+#flag-Iceland .path3,
+#flag-Iceland .path4 {
+  fill: #4758a9;
+}
 
-#flag-Iceland .path5, #flag-Iceland .path6, #flag-Iceland .path7, #flag-Iceland .path8 {
-  fill: #fff; }
+#flag-Iceland .path5,
+#flag-Iceland .path6,
+#flag-Iceland .path7,
+#flag-Iceland .path8 {
+  fill: #fff;
+}
 
 #flag-Iceland .path9 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-India {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-India .path1 {
-  fill: #fc6e51; }
+  fill: #fc6e51;
+}
 
-#flag-India .path2, #flag-India .path3 {
-  fill: #f5f7fa; }
+#flag-India .path2,
+#flag-India .path3 {
+  fill: #f5f7fa;
+}
 
 #flag-India .path4 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-India .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Indonesia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Indonesia .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Indonesia .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Iran {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Iran .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-Iran .path2, #flag-Iran .path3, #flag-Iran .path4, #flag-Iran .path5, #flag-Iran .path6, #flag-Iran .path7, #flag-Iran .path8, #flag-Iran .path9, #flag-Iran .path10, #flag-Iran .path11, #flag-Iran .path12, #flag-Iran .path13, #flag-Iran .path14, #flag-Iran .path15, #flag-Iran .path16, #flag-Iran .path17, #flag-Iran .path18, #flag-Iran .path19, #flag-Iran .path20, #flag-Iran .path21, #flag-Iran .path22, #flag-Iran .path23, #flag-Iran .path24, #flag-Iran .path25, #flag-Iran .path26, #flag-Iran .path27, #flag-Iran .path28, #flag-Iran .path29, #flag-Iran .path30, #flag-Iran .path31, #flag-Iran .path32, #flag-Iran .path33, #flag-Iran .path34, #flag-Iran .path35, #flag-Iran .path36, #flag-Iran .path37 {
-  fill: #f5f7fa; }
+#flag-Iran .path2,
+#flag-Iran .path3,
+#flag-Iran .path4,
+#flag-Iran .path5,
+#flag-Iran .path6,
+#flag-Iran .path7,
+#flag-Iran .path8,
+#flag-Iran .path9,
+#flag-Iran .path10,
+#flag-Iran .path11,
+#flag-Iran .path12,
+#flag-Iran .path13,
+#flag-Iran .path14,
+#flag-Iran .path15,
+#flag-Iran .path16,
+#flag-Iran .path17,
+#flag-Iran .path18,
+#flag-Iran .path19,
+#flag-Iran .path20,
+#flag-Iran .path21,
+#flag-Iran .path22,
+#flag-Iran .path23,
+#flag-Iran .path24,
+#flag-Iran .path25,
+#flag-Iran .path26,
+#flag-Iran .path27,
+#flag-Iran .path28,
+#flag-Iran .path29,
+#flag-Iran .path30,
+#flag-Iran .path31,
+#flag-Iran .path32,
+#flag-Iran .path33,
+#flag-Iran .path34,
+#flag-Iran .path35,
+#flag-Iran .path36,
+#flag-Iran .path37 {
+  fill: #f5f7fa;
+}
 
-#flag-Iran .path38, #flag-Iran .path39 {
-  fill: #ed5565; }
+#flag-Iran .path38,
+#flag-Iran .path39 {
+  fill: #ed5565;
+}
 
 .flag-Iraq {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Iraq .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Iraq .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Iraq .path3, #flag-Iraq .path4, #flag-Iraq .path5 {
-  fill: #57a863; }
+#flag-Iraq .path3,
+#flag-Iraq .path4,
+#flag-Iraq .path5 {
+  fill: #57a863;
+}
 
 #flag-Iraq .path6 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Iraq .path7 {
-  fill: rgba(26, 29, 33, 0.4); }
+  fill: rgba(26, 29, 33, 0.4);
+}
 
 .flag-Ireland {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-Ireland .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Ireland .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Ireland .path3 {
-  fill: #fc6e51; }
+  fill: #fc6e51;
+}
 
 .flag-Israel {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Israel .path1, #flag-Israel .path2, #flag-Israel .path3 {
-  fill: #4758a9; }
+#flag-Israel .path1,
+#flag-Israel .path2,
+#flag-Israel .path3 {
+  fill: #4758a9;
+}
 
-#flag-Israel .path4, #flag-Israel .path5, #flag-Israel .path6, #flag-Israel .path7, #flag-Israel .path8, #flag-Israel .path9, #flag-Israel .path10, #flag-Israel .path11 {
-  fill: #f5f7fa; }
+#flag-Israel .path4,
+#flag-Israel .path5,
+#flag-Israel .path6,
+#flag-Israel .path7,
+#flag-Israel .path8,
+#flag-Israel .path9,
+#flag-Israel .path10,
+#flag-Israel .path11 {
+  fill: #f5f7fa;
+}
 
 .flag-Italy {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-Italy .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Italy .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Italy .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Jamaica {
-  width: 1.5078125em; }
+  width: 1.5078125em;
+}
 
-#flag-Jamaica .path1, #flag-Jamaica .path2 {
-  fill: #52c162; }
+#flag-Jamaica .path1,
+#flag-Jamaica .path2 {
+  fill: #52c162;
+}
 
 #flag-Jamaica .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-Jamaica .path4, #flag-Jamaica .path5 {
-  fill: #434a54; }
+#flag-Jamaica .path4,
+#flag-Jamaica .path5 {
+  fill: #434a54;
+}
 
 .flag-Japan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Japan .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Japan .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Jordan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Jordan .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Jordan .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Jordan .path3, #flag-Jordan .path4 {
-  fill: #f5f7fa; }
+#flag-Jordan .path3,
+#flag-Jordan .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-Jordan .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Kazakhstan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Kazakhstan .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
-#flag-Kazakhstan .path2, #flag-Kazakhstan .path3, #flag-Kazakhstan .path4, #flag-Kazakhstan .path5, #flag-Kazakhstan .path6 {
-  fill: #e1d26d; }
+#flag-Kazakhstan .path2,
+#flag-Kazakhstan .path3,
+#flag-Kazakhstan .path4,
+#flag-Kazakhstan .path5,
+#flag-Kazakhstan .path6 {
+  fill: #e1d26d;
+}
 
 #flag-Kazakhstan .path7 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-Kenya {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Kenya .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-Kenya .path2, #flag-Kenya .path3, #flag-Kenya .path4 {
-  fill: #ed5565; }
+#flag-Kenya .path2,
+#flag-Kenya .path3,
+#flag-Kenya .path4 {
+  fill: #ed5565;
+}
 
-#flag-Kenya .path5, #flag-Kenya .path6, #flag-Kenya .path7, #flag-Kenya .path8, #flag-Kenya .path9, #flag-Kenya .path10, #flag-Kenya .path11, #flag-Kenya .path12 {
-  fill: #f5f7fa; }
+#flag-Kenya .path5,
+#flag-Kenya .path6,
+#flag-Kenya .path7,
+#flag-Kenya .path8,
+#flag-Kenya .path9,
+#flag-Kenya .path10,
+#flag-Kenya .path11,
+#flag-Kenya .path12 {
+  fill: #f5f7fa;
+}
 
 #flag-Kenya .path13 {
-  fill: #e6e9ed; }
+  fill: #e6e9ed;
+}
 
 #flag-Kenya .path14 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Kiribati {
-  width: 1.3193359375em; }
+  width: 1.3193359375em;
+}
 
 #flag-Kiribati .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Kiribati .path2 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
-#flag-Kiribati .path3, #flag-Kiribati .path4 {
-  fill: #f5f7fa; }
+#flag-Kiribati .path3,
+#flag-Kiribati .path4 {
+  fill: #f5f7fa;
+}
 
-#flag-Kiribati .path5, #flag-Kiribati .path6 {
-  fill: #4758a9; }
+#flag-Kiribati .path5,
+#flag-Kiribati .path6 {
+  fill: #4758a9;
+}
 
 .flag-Korea-1 {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Korea-1 .path1, #flag-Korea-1 .path2 {
-  fill: #4758a9; }
+#flag-Korea-1 .path1,
+#flag-Korea-1 .path2 {
+  fill: #4758a9;
+}
 
-#flag-Korea-1 .path3, #flag-Korea-1 .path4 {
-  fill: #f5f7fa; }
+#flag-Korea-1 .path3,
+#flag-Korea-1 .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-Korea-1 .path5 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Korea-1 .path6, #flag-Korea-1 .path7, #flag-Korea-1 .path8, #flag-Korea-1 .path9, #flag-Korea-1 .path10 {
-  fill: #fff; }
+#flag-Korea-1 .path6,
+#flag-Korea-1 .path7,
+#flag-Korea-1 .path8,
+#flag-Korea-1 .path9,
+#flag-Korea-1 .path10 {
+  fill: #fff;
+}
 
 .flag-Korea {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Korea .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Korea .path2, #flag-Korea .path3, #flag-Korea .path4, #flag-Korea .path5, #flag-Korea .path6, #flag-Korea .path7, #flag-Korea .path8, #flag-Korea .path9 {
-  fill: #434a54; }
+#flag-Korea .path2,
+#flag-Korea .path3,
+#flag-Korea .path4,
+#flag-Korea .path5,
+#flag-Korea .path6,
+#flag-Korea .path7,
+#flag-Korea .path8,
+#flag-Korea .path9 {
+  fill: #434a54;
+}
 
 #flag-Korea .path10 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Korea .path11 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 .flag-Kosovo {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Kosovo .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
-#flag-Kosovo .path2, #flag-Kosovo .path3, #flag-Kosovo .path4, #flag-Kosovo .path5, #flag-Kosovo .path6, #flag-Kosovo .path7 {
-  fill: #f5f7fa; }
+#flag-Kosovo .path2,
+#flag-Kosovo .path3,
+#flag-Kosovo .path4,
+#flag-Kosovo .path5,
+#flag-Kosovo .path6,
+#flag-Kosovo .path7 {
+  fill: #f5f7fa;
+}
 
 #flag-Kosovo .path8 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-Kuwait {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Kuwait .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Kuwait .path2 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Kuwait .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Kuwait .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Kyrgyzstan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Kyrgyzstan .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Kyrgyzstan .path2, #flag-Kyrgyzstan .path3, #flag-Kyrgyzstan .path4, #flag-Kyrgyzstan .path5, #flag-Kyrgyzstan .path6, #flag-Kyrgyzstan .path7, #flag-Kyrgyzstan .path8, #flag-Kyrgyzstan .path9, #flag-Kyrgyzstan .path10 {
-  fill: #ffce54; }
+#flag-Kyrgyzstan .path2,
+#flag-Kyrgyzstan .path3,
+#flag-Kyrgyzstan .path4,
+#flag-Kyrgyzstan .path5,
+#flag-Kyrgyzstan .path6,
+#flag-Kyrgyzstan .path7,
+#flag-Kyrgyzstan .path8,
+#flag-Kyrgyzstan .path9,
+#flag-Kyrgyzstan .path10 {
+  fill: #ffce54;
+}
 
 .flag-Laos {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Laos .path1, #flag-Laos .path2 {
-  fill: #ed5565; }
+#flag-Laos .path1,
+#flag-Laos .path2 {
+  fill: #ed5565;
+}
 
 #flag-Laos .path3 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Laos .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Latvia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Latvia .path1, #flag-Latvia .path2 {
-  fill: #b42b39; }
+#flag-Latvia .path1,
+#flag-Latvia .path2 {
+  fill: #b42b39;
+}
 
 #flag-Latvia .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Lebanon {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Lebanon .path1, #flag-Lebanon .path2 {
-  fill: #ed5565; }
+#flag-Lebanon .path1,
+#flag-Lebanon .path2 {
+  fill: #ed5565;
+}
 
 #flag-Lebanon .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Lebanon .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Lesotho {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Lesotho .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Lesotho .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Lesotho .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Lesotho .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Liberia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Liberia .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-Liberia .path2, #flag-Liberia .path3, #flag-Liberia .path4, #flag-Liberia .path5 {
-  fill: #ed5565; }
+#flag-Liberia .path2,
+#flag-Liberia .path3,
+#flag-Liberia .path4,
+#flag-Liberia .path5 {
+  fill: #ed5565;
+}
 
 #flag-Liberia .path6 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-Liberia .path7, #flag-Liberia .path8, #flag-Liberia .path9, #flag-Liberia .path10 {
-  fill: #f5f7fa; }
+#flag-Liberia .path7,
+#flag-Liberia .path8,
+#flag-Liberia .path9,
+#flag-Liberia .path10 {
+  fill: #f5f7fa;
+}
 
 .flag-Libya {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Libya .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Libya .path2 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-Libya .path3, #flag-Libya .path4 {
-  fill: #fff; }
+#flag-Libya .path3,
+#flag-Libya .path4 {
+  fill: #fff;
+}
 
 #flag-Libya .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Liechtenstein {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Liechtenstein .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Liechtenstein .path2 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-Liechtenstein .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Lithuania {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Lithuania .path1 {
-  fill: #f6bb42; }
+  fill: #f6bb42;
+}
 
 #flag-Lithuania .path2 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Lithuania .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Luxembourg {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Luxembourg .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Luxembourg .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Luxembourg .path3 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 .flag-Macedonia {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-Macedonia .path1, #flag-Macedonia .path2 {
-  fill: rgba(205, 73, 87, 0.87); }
+#flag-Macedonia .path1,
+#flag-Macedonia .path2 {
+  fill: rgba(205, 73, 87, 0.87);
+}
 
-#flag-Macedonia .path3, #flag-Macedonia .path4, #flag-Macedonia .path5, #flag-Macedonia .path6, #flag-Macedonia .path7, #flag-Macedonia .path8, #flag-Macedonia .path9, #flag-Macedonia .path10, #flag-Macedonia .path11 {
-  fill: #ffce54; }
+#flag-Macedonia .path3,
+#flag-Macedonia .path4,
+#flag-Macedonia .path5,
+#flag-Macedonia .path6,
+#flag-Macedonia .path7,
+#flag-Macedonia .path8,
+#flag-Macedonia .path9,
+#flag-Macedonia .path10,
+#flag-Macedonia .path11 {
+  fill: #ffce54;
+}
 
 #flag-Macedonia .path12 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Macedonia .path13 {
-  fill: rgba(110, 39, 47, 0.47); }
+  fill: rgba(110, 39, 47, 0.47);
+}
 
 .flag-Madagascar {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Madagascar .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Madagascar .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Madagascar .path3 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Malawi {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Malawi .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-Malawi .path2, #flag-Malawi .path3 {
-  fill: #ed5565; }
+#flag-Malawi .path2,
+#flag-Malawi .path3 {
+  fill: #ed5565;
+}
 
 #flag-Malawi .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Malaysia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Malaysia .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-Malaysia .path2, #flag-Malaysia .path3, #flag-Malaysia .path4, #flag-Malaysia .path5 {
-  fill: #ed5565; }
+#flag-Malaysia .path2,
+#flag-Malaysia .path3,
+#flag-Malaysia .path4,
+#flag-Malaysia .path5 {
+  fill: #ed5565;
+}
 
-#flag-Malaysia .path6, #flag-Malaysia .path7 {
-  fill: #ffce54; }
+#flag-Malaysia .path6,
+#flag-Malaysia .path7 {
+  fill: #ffce54;
+}
 
-#flag-Malaysia .path8, #flag-Malaysia .path9, #flag-Malaysia .path10, #flag-Malaysia .path11 {
-  fill: #f5f7fa; }
+#flag-Malaysia .path8,
+#flag-Malaysia .path9,
+#flag-Malaysia .path10,
+#flag-Malaysia .path11 {
+  fill: #f5f7fa;
+}
 
 .flag-Maldives {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Maldives .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Maldives .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Maldives .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Mali {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-Mali .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Mali .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Mali .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Malta {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Malta .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Malta .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Malta .path3 {
-  fill: #ccd1d9; }
+  fill: #ccd1d9;
+}
 
 .flag-MarshallIslands {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-MarshallIslands .path1, #flag-MarshallIslands .path2 {
-  fill: #4758a9; }
+#flag-MarshallIslands .path1,
+#flag-MarshallIslands .path2 {
+  fill: #4758a9;
+}
 
 #flag-MarshallIslands .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-MarshallIslands .path4 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-MarshallIslands .path5 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-MarshallIslands .path6 {
-  fill: rgba(30, 30, 30, 0.12); }
+  fill: rgba(30, 30, 30, 0.12);
+}
 
 #flag-MarshallIslands .path7 {
-  fill: rgba(8, 10, 19, 0.12); }
+  fill: rgba(8, 10, 19, 0.12);
+}
 
 .flag-Mauritania {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Mauritania .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-Mauritania .path2, #flag-Mauritania .path3 {
-  fill: #f6d660; }
+#flag-Mauritania .path2,
+#flag-Mauritania .path3 {
+  fill: #f6d660;
+}
 
 .flag-Mauritius {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Mauritius .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Mauritius .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Mauritius .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Mauritius .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Mexico {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-Mexico .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-Mexico .path2, #flag-Mexico .path3 {
-  fill: #f5f7fa; }
+#flag-Mexico .path2,
+#flag-Mexico .path3 {
+  fill: #f5f7fa;
+}
 
 #flag-Mexico .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Mexico .path5 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-MicronesiaFederated {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-MicronesiaFederated .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
-#flag-MicronesiaFederated .path2, #flag-MicronesiaFederated .path3, #flag-MicronesiaFederated .path4, #flag-MicronesiaFederated .path5 {
-  fill: #f5f7fa; }
+#flag-MicronesiaFederated .path2,
+#flag-MicronesiaFederated .path3,
+#flag-MicronesiaFederated .path4,
+#flag-MicronesiaFederated .path5 {
+  fill: #f5f7fa;
+}
 
 .flag-Moldova {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-Moldova .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-Moldova .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Moldova .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Moldova .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-Monaco {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Monaco .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Monaco .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Mongolia {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-Mongolia .path1, #flag-Mongolia .path2 {
-  fill: #ed5565; }
+#flag-Mongolia .path1,
+#flag-Mongolia .path2 {
+  fill: #ed5565;
+}
 
 #flag-Mongolia .path3 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
-#flag-Mongolia .path4, #flag-Mongolia .path5, #flag-Mongolia .path6, #flag-Mongolia .path7, #flag-Mongolia .path8 {
-  fill: #f6bb42; }
+#flag-Mongolia .path4,
+#flag-Mongolia .path5,
+#flag-Mongolia .path6,
+#flag-Mongolia .path7,
+#flag-Mongolia .path8 {
+  fill: #f6bb42;
+}
 
 #flag-Mongolia .path9 {
-  fill: rgba(54, 100, 161, 0.73); }
+  fill: rgba(54, 100, 161, 0.73);
+}
 
 .flag-Montenegro {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Montenegro .path1, #flag-Montenegro .path2 {
-  fill: #ffce54; }
+#flag-Montenegro .path1,
+#flag-Montenegro .path2 {
+  fill: #ffce54;
+}
 
 #flag-Montenegro .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Morocco {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Morocco .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Morocco .path2 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Mozambique {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Mozambique .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Mozambique .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Mozambique .path3, #flag-Mozambique .path4 {
-  fill: #f5f7fa; }
+#flag-Mozambique .path3,
+#flag-Mozambique .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-Mozambique .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Mozambique .path6 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-Myanmar {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Myanmar .path1 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Myanmar .path2 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-Myanmar .path3, #flag-Myanmar .path4 {
-  fill: #57a863; }
+#flag-Myanmar .path3,
+#flag-Myanmar .path4 {
+  fill: #57a863;
+}
 
 #flag-Myanmar .path5 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Namibia {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
 #flag-Namibia .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-Namibia .path2, #flag-Namibia .path3 {
-  fill: #e6e9ed; }
+#flag-Namibia .path2,
+#flag-Namibia .path3 {
+  fill: #e6e9ed;
+}
 
 #flag-Namibia .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Namibia .path5 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Namibia .path6 {
-  fill: rgba(15, 29, 17, 0.18); }
+  fill: rgba(15, 29, 17, 0.18);
+}
 
 #flag-Namibia .path7 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Nauru {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Nauru .path1, #flag-Nauru .path2 {
-  fill: #4758a9; }
+#flag-Nauru .path1,
+#flag-Nauru .path2 {
+  fill: #4758a9;
+}
 
 #flag-Nauru .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Nauru .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-Nepal {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Nepal .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Nepal .path2, #flag-Nepal .path3 {
-  fill: #ed5565; }
+#flag-Nepal .path2,
+#flag-Nepal .path3 {
+  fill: #ed5565;
+}
 
-#flag-Nepal .path4, #flag-Nepal .path5 {
-  fill: #fff; }
+#flag-Nepal .path4,
+#flag-Nepal .path5 {
+  fill: #fff;
+}
 
 #flag-Nepal .path6 {
-  fill: #ef6a78; }
+  fill: #ef6a78;
+}
 
 .flag-Netherlands {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Netherlands .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Netherlands .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Netherlands .path3 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 .flag-NewZealand {
-  width: 1.4873046875em; }
+  width: 1.4873046875em;
+}
 
 #flag-NewZealand .path1 {
-  fill: rgba(82, 77, 113, 0.64); }
+  fill: rgba(82, 77, 113, 0.64);
+}
 
-#flag-NewZealand .path2, #flag-NewZealand .path3, #flag-NewZealand .path4, #flag-NewZealand .path5, #flag-NewZealand .path6 {
-  fill: #4758a9; }
+#flag-NewZealand .path2,
+#flag-NewZealand .path3,
+#flag-NewZealand .path4,
+#flag-NewZealand .path5,
+#flag-NewZealand .path6 {
+  fill: #4758a9;
+}
 
-#flag-NewZealand .path7, #flag-NewZealand .path8, #flag-NewZealand .path9, #flag-NewZealand .path10, #flag-NewZealand .path11, #flag-NewZealand .path12, #flag-NewZealand .path13 {
-  fill: #fff; }
+#flag-NewZealand .path7,
+#flag-NewZealand .path8,
+#flag-NewZealand .path9,
+#flag-NewZealand .path10,
+#flag-NewZealand .path11,
+#flag-NewZealand .path12,
+#flag-NewZealand .path13 {
+  fill: #fff;
+}
 
-#flag-NewZealand .path14, #flag-NewZealand .path15, #flag-NewZealand .path16, #flag-NewZealand .path17, #flag-NewZealand .path18 {
-  fill: #ed5565; }
+#flag-NewZealand .path14,
+#flag-NewZealand .path15,
+#flag-NewZealand .path16,
+#flag-NewZealand .path17,
+#flag-NewZealand .path18 {
+  fill: #ed5565;
+}
 
 #flag-NewZealand .path19 {
-  fill: rgba(84, 79, 116, 0.65); }
+  fill: rgba(84, 79, 116, 0.65);
+}
 
 #flag-NewZealand .path20 {
-  fill: rgba(18, 23, 45, 0.27); }
+  fill: rgba(18, 23, 45, 0.27);
+}
 
 .flag-Nicaragua {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Nicaragua .path1, #flag-Nicaragua .path2 {
-  fill: #4a89dc; }
+#flag-Nicaragua .path1,
+#flag-Nicaragua .path2 {
+  fill: #4a89dc;
+}
 
-#flag-Nicaragua .path3, #flag-Nicaragua .path4 {
-  fill: #f5f7fa; }
+#flag-Nicaragua .path3,
+#flag-Nicaragua .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-Nicaragua .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-Niger {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Niger .path1, #flag-Niger .path2 {
-  fill: #fc6e51; }
+#flag-Niger .path1,
+#flag-Niger .path2 {
+  fill: #fc6e51;
+}
 
 #flag-Niger .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Niger .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Nigeria {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Nigeria .path1, #flag-Nigeria .path2 {
-  fill: #57a863; }
+#flag-Nigeria .path1,
+#flag-Nigeria .path2 {
+  fill: #57a863;
+}
 
 #flag-Nigeria .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Norway {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Norway .path1, #flag-Norway .path2, #flag-Norway .path3, #flag-Norway .path4 {
-  fill: #ed5565; }
+#flag-Norway .path1,
+#flag-Norway .path2,
+#flag-Norway .path3,
+#flag-Norway .path4 {
+  fill: #ed5565;
+}
 
-#flag-Norway .path5, #flag-Norway .path6, #flag-Norway .path7, #flag-Norway .path8 {
-  fill: #fff; }
+#flag-Norway .path5,
+#flag-Norway .path6,
+#flag-Norway .path7,
+#flag-Norway .path8 {
+  fill: #fff;
+}
 
 #flag-Norway .path9 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Norway .path10 {
-  fill: rgba(149, 119, 130, 0.67); }
+  fill: rgba(149, 119, 130, 0.67);
+}
 
 .flag-Oman {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Oman .path1, #flag-Oman .path2 {
-  fill: #ed5565; }
+#flag-Oman .path1,
+#flag-Oman .path2 {
+  fill: #ed5565;
+}
 
 #flag-Oman .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Oman .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-Oman .path5 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-Pakistan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Pakistan .path1, #flag-Pakistan .path2, #flag-Pakistan .path3 {
-  fill: #f5f7fa; }
+#flag-Pakistan .path1,
+#flag-Pakistan .path2,
+#flag-Pakistan .path3 {
+  fill: #f5f7fa;
+}
 
 #flag-Pakistan .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Palau {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Palau .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-Palau .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-Panama {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Panama .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Panama .path2, #flag-Panama .path3 {
-  fill: #ed5565; }
+#flag-Panama .path2,
+#flag-Panama .path3 {
+  fill: #ed5565;
+}
 
-#flag-Panama .path4, #flag-Panama .path5 {
-  fill: #4758a9; }
+#flag-Panama .path4,
+#flag-Panama .path5 {
+  fill: #4758a9;
+}
 
 .flag-PapuaNewGuinea {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-PapuaNewGuinea .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-PapuaNewGuinea .path2 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-PapuaNewGuinea .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
-#flag-PapuaNewGuinea .path4, #flag-PapuaNewGuinea .path5, #flag-PapuaNewGuinea .path6, #flag-PapuaNewGuinea .path7, #flag-PapuaNewGuinea .path8 {
-  fill: #fff; }
+#flag-PapuaNewGuinea .path4,
+#flag-PapuaNewGuinea .path5,
+#flag-PapuaNewGuinea .path6,
+#flag-PapuaNewGuinea .path7,
+#flag-PapuaNewGuinea .path8 {
+  fill: #fff;
+}
 
 #flag-PapuaNewGuinea .path9 {
-  fill: rgba(17, 19, 22, 0.27); }
+  fill: rgba(17, 19, 22, 0.27);
+}
 
 .flag-Paraguay {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Paraguay .path1, #flag-Paraguay .path2 {
-  fill: #ed5565; }
+#flag-Paraguay .path1,
+#flag-Paraguay .path2 {
+  fill: #ed5565;
+}
 
-#flag-Paraguay .path3, #flag-Paraguay .path4 {
-  fill: #f5f7fa; }
+#flag-Paraguay .path3,
+#flag-Paraguay .path4 {
+  fill: #f5f7fa;
+}
 
 #flag-Paraguay .path5 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 .flag-Peru {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Peru .path1, #flag-Peru .path2 {
-  fill: #ed5565; }
+#flag-Peru .path1,
+#flag-Peru .path2 {
+  fill: #ed5565;
+}
 
 #flag-Peru .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Philippines {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Philippines .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Philippines .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Philippines .path3 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Philippines .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Poland {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Poland .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Poland .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Portugal {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Portugal .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Portugal .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Portugal .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-Qatar {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Qatar .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Qatar .path2 {
-  fill: #a54577; }
+  fill: #a54577;
+}
 
 .flag-Romania {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Romania .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-Romania .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-Romania .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Russia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Russia .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Russia .path2 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-Russia .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Rwanda {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Rwanda .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
-#flag-Rwanda .path2, #flag-Rwanda .path3 {
-  fill: #ffce54; }
+#flag-Rwanda .path2,
+#flag-Rwanda .path3 {
+  fill: #ffce54;
+}
 
 #flag-Rwanda .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-SaintKittsandNevis {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
 #flag-SaintKittsandNevis .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-SaintKittsandNevis .path2, #flag-SaintKittsandNevis .path3 {
-  fill: #f6bb42; }
+#flag-SaintKittsandNevis .path2,
+#flag-SaintKittsandNevis .path3 {
+  fill: #f6bb42;
+}
 
 #flag-SaintKittsandNevis .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-SaintKittsandNevis .path5 {
-  fill: rgba(41, 14, 17, 0.18); }
+  fill: rgba(41, 14, 17, 0.18);
+}
 
 #flag-SaintKittsandNevis .path6 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-SaintKittsandNevis .path7, #flag-SaintKittsandNevis .path8 {
-  fill: #f5f7fa; }
+#flag-SaintKittsandNevis .path7,
+#flag-SaintKittsandNevis .path8 {
+  fill: #f5f7fa;
+}
 
 .flag-SaintLucia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-SaintLucia .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-SaintLucia .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-SaintLucia .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-SaintLucia .path4 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-SaintVincentandtheGrenadines {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-SaintVincentandtheGrenadines .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-SaintVincentandtheGrenadines .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-SaintVincentandtheGrenadines .path3, #flag-SaintVincentandtheGrenadines .path4, #flag-SaintVincentandtheGrenadines .path5, #flag-SaintVincentandtheGrenadines .path6 {
-  fill: #57a863; }
+#flag-SaintVincentandtheGrenadines .path3,
+#flag-SaintVincentandtheGrenadines .path4,
+#flag-SaintVincentandtheGrenadines .path5,
+#flag-SaintVincentandtheGrenadines .path6 {
+  fill: #57a863;
+}
 
 .flag-Samoa {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Samoa .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Samoa .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Samoa .path3, #flag-Samoa .path4, #flag-Samoa .path5, #flag-Samoa .path6 {
-  fill: #fff; }
+#flag-Samoa .path3,
+#flag-Samoa .path4,
+#flag-Samoa .path5,
+#flag-Samoa .path6 {
+  fill: #fff;
+}
 
 .flag-SanMarino {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-SanMarino .path1, #flag-SanMarino .path2, #flag-SanMarino .path3, #flag-SanMarino .path4, #flag-SanMarino .path5 {
-  fill: #f5f7fa; }
+#flag-SanMarino .path1,
+#flag-SanMarino .path2,
+#flag-SanMarino .path3,
+#flag-SanMarino .path4,
+#flag-SanMarino .path5 {
+  fill: #f5f7fa;
+}
 
 #flag-SanMarino .path6 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-SanMarino .path7, #flag-SanMarino .path8, #flag-SanMarino .path9 {
-  fill: #57a863; }
+#flag-SanMarino .path7,
+#flag-SanMarino .path8,
+#flag-SanMarino .path9 {
+  fill: #57a863;
+}
 
 #flag-SanMarino .path10 {
-  fill: #f7eed4; }
+  fill: #f7eed4;
+}
 
 #flag-SanMarino .path11 {
-  fill: #f7efd9; }
+  fill: #f7efd9;
+}
 
-#flag-SanMarino .path12, #flag-SanMarino .path13, #flag-SanMarino .path14, #flag-SanMarino .path15, #flag-SanMarino .path16, #flag-SanMarino .path17, #flag-SanMarino .path18, #flag-SanMarino .path19, #flag-SanMarino .path20 {
-  fill: #3bafda; }
+#flag-SanMarino .path12,
+#flag-SanMarino .path13,
+#flag-SanMarino .path14,
+#flag-SanMarino .path15,
+#flag-SanMarino .path16,
+#flag-SanMarino .path17,
+#flag-SanMarino .path18,
+#flag-SanMarino .path19,
+#flag-SanMarino .path20 {
+  fill: #3bafda;
+}
 
 #flag-SanMarino .path21 {
-  fill: #49aca0; }
+  fill: #49aca0;
+}
 
 .flag-SaoTomeandPrincipe {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-SaoTomeandPrincipe .path1, #flag-SaoTomeandPrincipe .path2 {
-  fill: #57a863; }
+#flag-SaoTomeandPrincipe .path1,
+#flag-SaoTomeandPrincipe .path2 {
+  fill: #57a863;
+}
 
 #flag-SaoTomeandPrincipe .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-SaoTomeandPrincipe .path4 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-SaoTomeandPrincipe .path5, #flag-SaoTomeandPrincipe .path6 {
-  fill: #434a54; }
+#flag-SaoTomeandPrincipe .path5,
+#flag-SaoTomeandPrincipe .path6 {
+  fill: #434a54;
+}
 
 .flag-SaudiArabia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-SaudiArabia .path1, #flag-SaudiArabia .path2, #flag-SaudiArabia .path3, #flag-SaudiArabia .path4, #flag-SaudiArabia .path5, #flag-SaudiArabia .path6, #flag-SaudiArabia .path7 {
-  fill: #57a863; }
+#flag-SaudiArabia .path1,
+#flag-SaudiArabia .path2,
+#flag-SaudiArabia .path3,
+#flag-SaudiArabia .path4,
+#flag-SaudiArabia .path5,
+#flag-SaudiArabia .path6,
+#flag-SaudiArabia .path7 {
+  fill: #57a863;
+}
 
-#flag-SaudiArabia .path8, #flag-SaudiArabia .path9, #flag-SaudiArabia .path10, #flag-SaudiArabia .path11, #flag-SaudiArabia .path12, #flag-SaudiArabia .path13, #flag-SaudiArabia .path14, #flag-SaudiArabia .path15, #flag-SaudiArabia .path16, #flag-SaudiArabia .path17, #flag-SaudiArabia .path18, #flag-SaudiArabia .path19, #flag-SaudiArabia .path20, #flag-SaudiArabia .path21, #flag-SaudiArabia .path22, #flag-SaudiArabia .path23, #flag-SaudiArabia .path24, #flag-SaudiArabia .path25, #flag-SaudiArabia .path26, #flag-SaudiArabia .path27, #flag-SaudiArabia .path28, #flag-SaudiArabia .path29, #flag-SaudiArabia .path30, #flag-SaudiArabia .path31, #flag-SaudiArabia .path32, #flag-SaudiArabia .path33, #flag-SaudiArabia .path34, #flag-SaudiArabia .path35 {
-  fill: #fff; }
+#flag-SaudiArabia .path8,
+#flag-SaudiArabia .path9,
+#flag-SaudiArabia .path10,
+#flag-SaudiArabia .path11,
+#flag-SaudiArabia .path12,
+#flag-SaudiArabia .path13,
+#flag-SaudiArabia .path14,
+#flag-SaudiArabia .path15,
+#flag-SaudiArabia .path16,
+#flag-SaudiArabia .path17,
+#flag-SaudiArabia .path18,
+#flag-SaudiArabia .path19,
+#flag-SaudiArabia .path20,
+#flag-SaudiArabia .path21,
+#flag-SaudiArabia .path22,
+#flag-SaudiArabia .path23,
+#flag-SaudiArabia .path24,
+#flag-SaudiArabia .path25,
+#flag-SaudiArabia .path26,
+#flag-SaudiArabia .path27,
+#flag-SaudiArabia .path28,
+#flag-SaudiArabia .path29,
+#flag-SaudiArabia .path30,
+#flag-SaudiArabia .path31,
+#flag-SaudiArabia .path32,
+#flag-SaudiArabia .path33,
+#flag-SaudiArabia .path34,
+#flag-SaudiArabia .path35 {
+  fill: #fff;
+}
 
 .flag-Senegal {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Senegal .path1, #flag-Senegal .path2 {
-  fill: #57a863; }
+#flag-Senegal .path1,
+#flag-Senegal .path2 {
+  fill: #57a863;
+}
 
 #flag-Senegal .path3 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-Senegal .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Serbia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Serbia .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Serbia .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-Serbia .path3, #flag-Serbia .path4, #flag-Serbia .path5 {
-  fill: #4758a9; }
+#flag-Serbia .path3,
+#flag-Serbia .path4,
+#flag-Serbia .path5 {
+  fill: #4758a9;
+}
 
 #flag-Serbia .path6 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Seychelles {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-Seychelles .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Seychelles .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-Seychelles .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Seychelles .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 #flag-Seychelles .path5 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-SierraLeone {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-SierraLeone .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-SierraLeone .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-SierraLeone .path3 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 .flag-Singapore {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Singapore .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Singapore .path2, #flag-Singapore .path3, #flag-Singapore .path4, #flag-Singapore .path5, #flag-Singapore .path6, #flag-Singapore .path7, #flag-Singapore .path8 {
-  fill: #f5f7fa; }
+#flag-Singapore .path2,
+#flag-Singapore .path3,
+#flag-Singapore .path4,
+#flag-Singapore .path5,
+#flag-Singapore .path6,
+#flag-Singapore .path7,
+#flag-Singapore .path8 {
+  fill: #f5f7fa;
+}
 
 .flag-Slovakia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Slovakia .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Slovakia .path2, #flag-Slovakia .path3 {
-  fill: #ed5565; }
+#flag-Slovakia .path2,
+#flag-Slovakia .path3 {
+  fill: #ed5565;
+}
 
-#flag-Slovakia .path4, #flag-Slovakia .path5 {
-  fill: #4758a9; }
+#flag-Slovakia .path4,
+#flag-Slovakia .path5 {
+  fill: #4758a9;
+}
 
 .flag-Slovenia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Slovenia .path1 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Slovenia .path2, #flag-Slovenia .path3 {
-  fill: #4758a9; }
+#flag-Slovenia .path2,
+#flag-Slovenia .path3 {
+  fill: #4758a9;
+}
 
 #flag-Slovenia .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-SolomonIslands {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
 #flag-SolomonIslands .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-SolomonIslands .path2 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-SolomonIslands .path3, #flag-SolomonIslands .path4, #flag-SolomonIslands .path5, #flag-SolomonIslands .path6, #flag-SolomonIslands .path7 {
-  fill: #f5f7fa; }
+#flag-SolomonIslands .path3,
+#flag-SolomonIslands .path4,
+#flag-SolomonIslands .path5,
+#flag-SolomonIslands .path6,
+#flag-SolomonIslands .path7 {
+  fill: #f5f7fa;
+}
 
 #flag-SolomonIslands .path8 {
-  fill: rgba(15, 29, 17, 0.18); }
+  fill: rgba(15, 29, 17, 0.18);
+}
 
 #flag-SolomonIslands .path9 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Somalia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Somalia .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-Somalia .path2 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-SouthAfrica {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
-#flag-SouthAfrica .path1, #flag-SouthAfrica .path2 {
-  fill: #fff; }
+#flag-SouthAfrica .path1,
+#flag-SouthAfrica .path2 {
+  fill: #fff;
+}
 
 #flag-SouthAfrica .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-SouthAfrica .path4 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-SouthAfrica .path5 {
-  fill: rgba(27, 48, 28, 0.29); }
+  fill: rgba(27, 48, 28, 0.29);
+}
 
 #flag-SouthAfrica .path6 {
-  fill: rgba(35, 25, 43, 0.29); }
+  fill: rgba(35, 25, 43, 0.29);
+}
 
 #flag-SouthAfrica .path7 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-SouthAfrica .path8 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-SouthAfrica .path9 {
-  fill: #708058; }
+  fill: #708058;
+}
 
 #flag-SouthAfrica .path10 {
-  fill: rgba(64, 69, 65, 0.29); }
+  fill: rgba(64, 69, 65, 0.29);
+}
 
 #flag-SouthAfrica .path11 {
-  fill: #707957; }
+  fill: #707957;
+}
 
 #flag-SouthAfrica .path12 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-SouthAfrica .path13 {
-  fill: rgba(20, 25, 49, 0.29); }
+  fill: rgba(20, 25, 49, 0.29);
+}
 
 #flag-SouthAfrica .path14 {
-  fill: #6f9f5e; }
+  fill: #6f9f5e;
+}
 
 .flag-SouthSudan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-SouthSudan .path1 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-SouthSudan .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-SouthSudan .path3, #flag-SouthSudan .path4 {
-  fill: #fff; }
+#flag-SouthSudan .path3,
+#flag-SouthSudan .path4 {
+  fill: #fff;
+}
 
 #flag-SouthSudan .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-SouthSudan .path6 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-SouthSudan .path7 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Spain {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Spain .path1, #flag-Spain .path2, #flag-Spain .path3 {
-  fill: #ed5565; }
+#flag-Spain .path1,
+#flag-Spain .path2,
+#flag-Spain .path3 {
+  fill: #ed5565;
+}
 
 #flag-Spain .path4 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-SriLanka {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-SriLanka .path1 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 #flag-SriLanka .path2 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-SriLanka .path3 {
-  fill: #ff8416; }
+  fill: #ff8416;
+}
 
 #flag-SriLanka .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Sudan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Sudan .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Sudan .path2 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 #flag-Sudan .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Sudan .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Sudan .path5 {
-  fill: rgba(26, 29, 33, 0.4); }
+  fill: rgba(26, 29, 33, 0.4);
+}
 
 .flag-Suriname {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Suriname .path1, #flag-Suriname .path2 {
-  fill: #57a863; }
+#flag-Suriname .path1,
+#flag-Suriname .path2 {
+  fill: #57a863;
+}
 
-#flag-Suriname .path3, #flag-Suriname .path4 {
-  fill: #fff; }
+#flag-Suriname .path3,
+#flag-Suriname .path4 {
+  fill: #fff;
+}
 
 #flag-Suriname .path5 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Suriname .path6 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-Swaziland {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Swaziland .path1, #flag-Swaziland .path2 {
-  fill: #4758a9; }
+#flag-Swaziland .path1,
+#flag-Swaziland .path2 {
+  fill: #4758a9;
+}
 
-#flag-Swaziland .path3, #flag-Swaziland .path4, #flag-Swaziland .path5, #flag-Swaziland .path6, #flag-Swaziland .path7, #flag-Swaziland .path8 {
-  fill: #ffce54; }
+#flag-Swaziland .path3,
+#flag-Swaziland .path4,
+#flag-Swaziland .path5,
+#flag-Swaziland .path6,
+#flag-Swaziland .path7,
+#flag-Swaziland .path8 {
+  fill: #ffce54;
+}
 
 #flag-Swaziland .path9 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Swaziland .path10 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Swaziland .path11 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Sweden {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Sweden .path1, #flag-Sweden .path2, #flag-Sweden .path3, #flag-Sweden .path4 {
-  fill: #4a89dc; }
+#flag-Sweden .path1,
+#flag-Sweden .path2,
+#flag-Sweden .path3,
+#flag-Sweden .path4 {
+  fill: #4a89dc;
+}
 
 #flag-Sweden .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
 .flag-Switzerland {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Switzerland .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Switzerland .path2 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-Syria {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Syria .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Syria .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Syria .path3, #flag-Syria .path4 {
-  fill: #57a863; }
+#flag-Syria .path3,
+#flag-Syria .path4 {
+  fill: #57a863;
+}
 
 #flag-Syria .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-Taiwan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Taiwan .path1 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 #flag-Taiwan .path2 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Taiwan .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Tajikistan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Tajikistan .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Tajikistan .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
-#flag-Tajikistan .path3, #flag-Tajikistan .path4, #flag-Tajikistan .path5, #flag-Tajikistan .path6, #flag-Tajikistan .path7 {
-  fill: #ffce54; }
+#flag-Tajikistan .path3,
+#flag-Tajikistan .path4,
+#flag-Tajikistan .path5,
+#flag-Tajikistan .path6,
+#flag-Tajikistan .path7 {
+  fill: #ffce54;
+}
 
 #flag-Tajikistan .path8 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-Tanzania {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
 #flag-Tanzania .path1 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
-#flag-Tanzania .path2, #flag-Tanzania .path3 {
-  fill: #f6bb42; }
+#flag-Tanzania .path2,
+#flag-Tanzania .path3 {
+  fill: #f6bb42;
+}
 
 #flag-Tanzania .path4 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Tanzania .path5 {
-  fill: rgba(13, 24, 38, 0.18); }
+  fill: rgba(13, 24, 38, 0.18);
+}
 
 #flag-Tanzania .path6 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 .flag-Thailand {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Thailand .path1, #flag-Thailand .path2 {
-  fill: #ed5565; }
+#flag-Thailand .path1,
+#flag-Thailand .path2 {
+  fill: #ed5565;
+}
 
-#flag-Thailand .path3, #flag-Thailand .path4 {
-  fill: #fff; }
+#flag-Thailand .path3,
+#flag-Thailand .path4 {
+  fill: #fff;
+}
 
 #flag-Thailand .path5 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
 .flag-Togo {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Togo .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Togo .path2, #flag-Togo .path3 {
-  fill: #57a863; }
+#flag-Togo .path2,
+#flag-Togo .path3 {
+  fill: #57a863;
+}
 
 #flag-Togo .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-Togo .path5, #flag-Togo .path6 {
-  fill: #ffce54; }
+#flag-Togo .path5,
+#flag-Togo .path6 {
+  fill: #ffce54;
+}
 
 .flag-Tonga {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Tonga .path1 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-Tonga .path2, #flag-Tonga .path3 {
-  fill: #ed5565; }
+#flag-Tonga .path2,
+#flag-Tonga .path3 {
+  fill: #ed5565;
+}
 
 .flag-TrinidadandTobago {
-  width: 1.4716796875em; }
+  width: 1.4716796875em;
+}
 
-#flag-TrinidadandTobago .path1, #flag-TrinidadandTobago .path2 {
-  fill: #e6e9ed; }
+#flag-TrinidadandTobago .path1,
+#flag-TrinidadandTobago .path2 {
+  fill: #e6e9ed;
+}
 
-#flag-TrinidadandTobago .path3, #flag-TrinidadandTobago .path4 {
-  fill: #ed5565; }
+#flag-TrinidadandTobago .path3,
+#flag-TrinidadandTobago .path4 {
+  fill: #ed5565;
+}
 
 #flag-TrinidadandTobago .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-TrinidadandTobago .path6 {
-  fill: rgba(41, 14, 17, 0.18); }
+  fill: rgba(41, 14, 17, 0.18);
+}
 
 .flag-Tunisia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Tunisia .path1, #flag-Tunisia .path2, #flag-Tunisia .path3 {
-  fill: #ed5565; }
+#flag-Tunisia .path1,
+#flag-Tunisia .path2,
+#flag-Tunisia .path3 {
+  fill: #ed5565;
+}
 
 #flag-Tunisia .path4 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 .flag-Turkey {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Turkey .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Turkey .path2, #flag-Turkey .path3 {
-  fill: #fff; }
+#flag-Turkey .path2,
+#flag-Turkey .path3 {
+  fill: #fff;
+}
 
 .flag-Turkmenistan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Turkmenistan .path1, #flag-Turkmenistan .path2 {
-  fill: #57a863; }
+#flag-Turkmenistan .path1,
+#flag-Turkmenistan .path2 {
+  fill: #57a863;
+}
 
 #flag-Turkmenistan .path3 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Turkmenistan .path4, #flag-Turkmenistan .path5, #flag-Turkmenistan .path6, #flag-Turkmenistan .path7, #flag-Turkmenistan .path8, #flag-Turkmenistan .path9 {
-  fill: #fff; }
+#flag-Turkmenistan .path4,
+#flag-Turkmenistan .path5,
+#flag-Turkmenistan .path6,
+#flag-Turkmenistan .path7,
+#flag-Turkmenistan .path8,
+#flag-Turkmenistan .path9 {
+  fill: #fff;
+}
 
 .flag-Tuvalu {
-  width: 1.4873046875em; }
+  width: 1.4873046875em;
+}
 
 #flag-Tuvalu .path1 {
-  fill: rgba(79, 97, 124, 0.64); }
+  fill: rgba(79, 97, 124, 0.64);
+}
 
 #flag-Tuvalu .path2 {
-  fill: rgba(73, 93, 123, 0.64); }
+  fill: rgba(73, 93, 123, 0.64);
+}
 
-#flag-Tuvalu .path3, #flag-Tuvalu .path4, #flag-Tuvalu .path5, #flag-Tuvalu .path6, #flag-Tuvalu .path7, #flag-Tuvalu .path8, #flag-Tuvalu .path9, #flag-Tuvalu .path10 {
-  fill: #4758a9; }
+#flag-Tuvalu .path3,
+#flag-Tuvalu .path4,
+#flag-Tuvalu .path5,
+#flag-Tuvalu .path6,
+#flag-Tuvalu .path7,
+#flag-Tuvalu .path8,
+#flag-Tuvalu .path9,
+#flag-Tuvalu .path10 {
+  fill: #4758a9;
+}
 
-#flag-Tuvalu .path11, #flag-Tuvalu .path12, #flag-Tuvalu .path13, #flag-Tuvalu .path14, #flag-Tuvalu .path15, #flag-Tuvalu .path16, #flag-Tuvalu .path17 {
-  fill: #fff; }
+#flag-Tuvalu .path11,
+#flag-Tuvalu .path12,
+#flag-Tuvalu .path13,
+#flag-Tuvalu .path14,
+#flag-Tuvalu .path15,
+#flag-Tuvalu .path16,
+#flag-Tuvalu .path17 {
+  fill: #fff;
+}
 
 #flag-Tuvalu .path18 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Tuvalu .path19 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-Tuvalu .path20 {
-  fill: rgba(81, 100, 127, 0.65); }
+  fill: rgba(81, 100, 127, 0.65);
+}
 
-#flag-Tuvalu .path21, #flag-Tuvalu .path22, #flag-Tuvalu .path23, #flag-Tuvalu .path24, #flag-Tuvalu .path25, #flag-Tuvalu .path26, #flag-Tuvalu .path27, #flag-Tuvalu .path28, #flag-Tuvalu .path29 {
-  fill: #ffce54; }
+#flag-Tuvalu .path21,
+#flag-Tuvalu .path22,
+#flag-Tuvalu .path23,
+#flag-Tuvalu .path24,
+#flag-Tuvalu .path25,
+#flag-Tuvalu .path26,
+#flag-Tuvalu .path27,
+#flag-Tuvalu .path28,
+#flag-Tuvalu .path29 {
+  fill: #ffce54;
+}
 
 #flag-Tuvalu .path30 {
-  fill: rgba(71, 98, 129, 0.65); }
+  fill: rgba(71, 98, 129, 0.65);
+}
 
 .flag-Uganda {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Uganda .path1, #flag-Uganda .path2, #flag-Uganda .path3 {
-  fill: #434a54; }
+#flag-Uganda .path1,
+#flag-Uganda .path2,
+#flag-Uganda .path3 {
+  fill: #434a54;
+}
 
-#flag-Uganda .path4, #flag-Uganda .path5 {
-  fill: #f6bb42; }
+#flag-Uganda .path4,
+#flag-Uganda .path5 {
+  fill: #f6bb42;
+}
 
-#flag-Uganda .path6, #flag-Uganda .path7, #flag-Uganda .path8 {
-  fill: #ed5565; }
+#flag-Uganda .path6,
+#flag-Uganda .path7,
+#flag-Uganda .path8 {
+  fill: #ed5565;
+}
 
 #flag-Uganda .path9 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 .flag-Ukraine {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Ukraine .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
 #flag-Ukraine .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-UnitedArabEmirates {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-UnitedArabEmirates .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-UnitedArabEmirates .path2 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 #flag-UnitedArabEmirates .path3 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-UnitedArabEmirates .path4 {
-  fill: rgba(172, 174, 176, 0.71); }
+  fill: rgba(172, 174, 176, 0.71);
+}
 
 #flag-UnitedArabEmirates .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-UnitedArabEmirates .path6 {
-  fill: rgba(17, 19, 22, 0.27); }
+  fill: rgba(17, 19, 22, 0.27);
+}
 
 .flag-UnitedKingdom {
-  width: 1.5078125em; }
+  width: 1.5078125em;
+}
 
 #flag-UnitedKingdom .path1 {
-  fill: rgba(67, 54, 70, 0.4); }
+  fill: rgba(67, 54, 70, 0.4);
+}
 
-#flag-UnitedKingdom .path2, #flag-UnitedKingdom .path3, #flag-UnitedKingdom .path4, #flag-UnitedKingdom .path5, #flag-UnitedKingdom .path6, #flag-UnitedKingdom .path7, #flag-UnitedKingdom .path8, #flag-UnitedKingdom .path9 {
-  fill: #4758a9; }
+#flag-UnitedKingdom .path2,
+#flag-UnitedKingdom .path3,
+#flag-UnitedKingdom .path4,
+#flag-UnitedKingdom .path5,
+#flag-UnitedKingdom .path6,
+#flag-UnitedKingdom .path7,
+#flag-UnitedKingdom .path8,
+#flag-UnitedKingdom .path9 {
+  fill: #4758a9;
+}
 
-#flag-UnitedKingdom .path10, #flag-UnitedKingdom .path11, #flag-UnitedKingdom .path12, #flag-UnitedKingdom .path13 {
-  fill: #fff; }
+#flag-UnitedKingdom .path10,
+#flag-UnitedKingdom .path11,
+#flag-UnitedKingdom .path12,
+#flag-UnitedKingdom .path13 {
+  fill: #fff;
+}
 
-#flag-UnitedKingdom .path14, #flag-UnitedKingdom .path15, #flag-UnitedKingdom .path16, #flag-UnitedKingdom .path17, #flag-UnitedKingdom .path18 {
-  fill: #ed5565; }
+#flag-UnitedKingdom .path14,
+#flag-UnitedKingdom .path15,
+#flag-UnitedKingdom .path16,
+#flag-UnitedKingdom .path17,
+#flag-UnitedKingdom .path18 {
+  fill: #ed5565;
+}
 
 #flag-UnitedKingdom .path19 {
-  fill: rgba(85, 66, 82, 0.47); }
+  fill: rgba(85, 66, 82, 0.47);
+}
 
 #flag-UnitedKingdom .path20 {
-  fill: rgba(209, 90, 104, 0.88); }
+  fill: rgba(209, 90, 104, 0.88);
+}
 
 #flag-UnitedKingdom .path21 {
-  fill: rgba(122, 87, 103, 0.6); }
+  fill: rgba(122, 87, 103, 0.6);
+}
 
 .flag-UnitedStatesofAmerica {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-UnitedStatesofAmerica .path1 {
-  fill: #4a89dc; }
+  fill: #4a89dc;
+}
 
-#flag-UnitedStatesofAmerica .path2, #flag-UnitedStatesofAmerica .path3, #flag-UnitedStatesofAmerica .path4 {
-  fill: #ed5565; }
+#flag-UnitedStatesofAmerica .path2,
+#flag-UnitedStatesofAmerica .path3,
+#flag-UnitedStatesofAmerica .path4 {
+  fill: #ed5565;
+}
 
 #flag-UnitedStatesofAmerica .path5 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-UnitedStatesofAmerica .path6, #flag-UnitedStatesofAmerica .path7 {
-  fill: #f5f7fa; }
+#flag-UnitedStatesofAmerica .path6,
+#flag-UnitedStatesofAmerica .path7 {
+  fill: #f5f7fa;
+}
 
 .flag-Uruguay {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Uruguay .path1, #flag-Uruguay .path2 {
-  fill: #f5f7fa; }
+#flag-Uruguay .path1,
+#flag-Uruguay .path2 {
+  fill: #f5f7fa;
+}
 
-#flag-Uruguay .path3, #flag-Uruguay .path4, #flag-Uruguay .path5 {
-  fill: #4758a9; }
+#flag-Uruguay .path3,
+#flag-Uruguay .path4,
+#flag-Uruguay .path5 {
+  fill: #4758a9;
+}
 
 #flag-Uruguay .path6 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-Uzbekistan {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Uzbekistan .path1 {
-  fill: #3bafda; }
+  fill: #3bafda;
+}
 
 #flag-Uzbekistan .path2 {
-  fill: #fff; }
+  fill: #fff;
+}
 
-#flag-Uzbekistan .path3, #flag-Uzbekistan .path4, #flag-Uzbekistan .path5, #flag-Uzbekistan .path6, #flag-Uzbekistan .path7, #flag-Uzbekistan .path8, #flag-Uzbekistan .path9, #flag-Uzbekistan .path10, #flag-Uzbekistan .path11, #flag-Uzbekistan .path12, #flag-Uzbekistan .path13, #flag-Uzbekistan .path14 {
-  fill: #fafdfe; }
+#flag-Uzbekistan .path3,
+#flag-Uzbekistan .path4,
+#flag-Uzbekistan .path5,
+#flag-Uzbekistan .path6,
+#flag-Uzbekistan .path7,
+#flag-Uzbekistan .path8,
+#flag-Uzbekistan .path9,
+#flag-Uzbekistan .path10,
+#flag-Uzbekistan .path11,
+#flag-Uzbekistan .path12,
+#flag-Uzbekistan .path13,
+#flag-Uzbekistan .path14 {
+  fill: #fafdfe;
+}
 
-#flag-Uzbekistan .path15, #flag-Uzbekistan .path16 {
-  fill: #ed5565; }
+#flag-Uzbekistan .path15,
+#flag-Uzbekistan .path16 {
+  fill: #ed5565;
+}
 
 #flag-Uzbekistan .path17 {
-  fill: rgba(167, 59, 71, 0.71); }
+  fill: rgba(167, 59, 71, 0.71);
+}
 
 #flag-Uzbekistan .path18 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Uzbekistan .path19 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
 .flag-Vanuatu {
-  width: 1.4892578125em; }
+  width: 1.4892578125em;
+}
 
 #flag-Vanuatu .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
-#flag-Vanuatu .path2, #flag-Vanuatu .path3, #flag-Vanuatu .path4 {
-  fill: #434a54; }
+#flag-Vanuatu .path2,
+#flag-Vanuatu .path3,
+#flag-Vanuatu .path4 {
+  fill: #434a54;
+}
 
 #flag-Vanuatu .path5 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-Vanuatu .path6, #flag-Vanuatu .path7 {
-  fill: rgba(117, 94, 39, 0.47); }
+#flag-Vanuatu .path6,
+#flag-Vanuatu .path7 {
+  fill: rgba(117, 94, 39, 0.47);
+}
 
 #flag-Vanuatu .path8 {
-  fill: rgba(19, 21, 24, 0.29); }
+  fill: rgba(19, 21, 24, 0.29);
+}
 
 #flag-Vanuatu .path9 {
-  fill: rgba(79, 68, 39, 0.47); }
+  fill: rgba(79, 68, 39, 0.47);
+}
 
 #flag-Vanuatu .path10 {
-  fill: rgba(30, 30, 24, 0.29); }
+  fill: rgba(30, 30, 24, 0.29);
+}
 
 #flag-Vanuatu .path11 {
-  fill: #57a863; }
+  fill: #57a863;
+}
 
 .flag-VaticanCity {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-VaticanCity .path1 {
-  fill: #ffce54; }
+  fill: #ffce54;
+}
 
-#flag-VaticanCity .path2, #flag-VaticanCity .path3, #flag-VaticanCity .path4, #flag-VaticanCity .path5, #flag-VaticanCity .path6, #flag-VaticanCity .path7, #flag-VaticanCity .path8, #flag-VaticanCity .path9 {
-  fill: #e6e9ed; }
+#flag-VaticanCity .path2,
+#flag-VaticanCity .path3,
+#flag-VaticanCity .path4,
+#flag-VaticanCity .path5,
+#flag-VaticanCity .path6,
+#flag-VaticanCity .path7,
+#flag-VaticanCity .path8,
+#flag-VaticanCity .path9 {
+  fill: #e6e9ed;
+}
 
 #flag-VaticanCity .path10 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Venezuela {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Venezuela .path1 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 #flag-Venezuela .path2 {
-  fill: #4758a9; }
+  fill: #4758a9;
+}
 
-#flag-Venezuela .path3, #flag-Venezuela .path4, #flag-Venezuela .path5, #flag-Venezuela .path6, #flag-Venezuela .path7 {
-  fill: #fff; }
+#flag-Venezuela .path3,
+#flag-Venezuela .path4,
+#flag-Venezuela .path5,
+#flag-Venezuela .path6,
+#flag-Venezuela .path7 {
+  fill: #fff;
+}
 
 #flag-Venezuela .path8 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 .flag-Vietnam {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Vietnam .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Vietnam .path2 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .flag-Yemen {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Yemen .path1 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Yemen .path2 {
-  fill: #f5f7fa; }
+  fill: #f5f7fa;
+}
 
 #flag-Yemen .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 .flag-Zambia {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
 #flag-Zambia .path1 {
-  fill: #52c162; }
+  fill: #52c162;
+}
 
-#flag-Zambia .path2, #flag-Zambia .path3 {
-  fill: #f6d660; }
+#flag-Zambia .path2,
+#flag-Zambia .path3 {
+  fill: #f6d660;
+}
 
 #flag-Zambia .path4 {
-  fill: #ed5565; }
+  fill: #ed5565;
+}
 
 #flag-Zambia .path5 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
 #flag-Zambia .path6 {
-  fill: rgba(30, 58, 36, 0.4); }
+  fill: rgba(30, 58, 36, 0.4);
+}
 
 #flag-Zambia .path7 {
-  fill: rgba(58, 79, 38, 0.4); }
+  fill: rgba(58, 79, 38, 0.4);
+}
 
 .flag-Zimbabwe {
-  width: 1.48828125em; }
+  width: 1.48828125em;
+}
 
-#flag-Zimbabwe .path1, #flag-Zimbabwe .path2 {
-  fill: #52c162; }
+#flag-Zimbabwe .path1,
+#flag-Zimbabwe .path2 {
+  fill: #52c162;
+}
 
 #flag-Zimbabwe .path3 {
-  fill: #434a54; }
+  fill: #434a54;
+}
 
-#flag-Zimbabwe .path4, #flag-Zimbabwe .path5 {
-  fill: #f6bb42; }
+#flag-Zimbabwe .path4,
+#flag-Zimbabwe .path5 {
+  fill: #f6bb42;
+}
 
-#flag-Zimbabwe .path6, #flag-Zimbabwe .path7 {
-  fill: #ed5565; }
+#flag-Zimbabwe .path6,
+#flag-Zimbabwe .path7 {
+  fill: #ed5565;
+}
 
 #flag-Zimbabwe .path8 {
-  fill: #f6d660; }
+  fill: #f6d660;
+}
 
 .ts3 {
   display: inline-block;
   width: 1em;
   height: 1em;
-  fill: currentColor; }
+  fill: currentColor;
+}
 
 /* =======================================================================================
 Example showing how to change the color/size of the icons:
@@ -5304,75 +8212,103 @@ Example showing how to change the color/size of the icons:
 	color: red; // works for single-colored icons, because "fill" was set to "currentColor"
 }
 ======================================================================================== */
+
 .fill-color1 {
-  fill: #000; }
+  fill: #000;
+}
 
 .fill-color2 {
-  fill: currentColor; }
+  fill: currentColor;
+}
 
 .fill-color3 {
-  fill: #004d86; }
+  fill: #004d86;
+}
 
 .fill-color4 {
-  fill: #d35400; }
+  fill: #d35400;
+}
 
 .fill-color5 {
-  fill: #f1c40f; }
+  fill: #f1c40f;
+}
 
 .fill-color6 {
-  fill: #3498db; }
+  fill: #3498db;
+}
 
 .fill-color7 {
-  fill: #6792b7; }
+  fill: #6792b7;
+}
 
 .fill-color8 {
-  fill: #e74c3c; }
+  fill: #e74c3c;
+}
 
 .fill-color9 {
-  fill: #5cb3ec; }
+  fill: #5cb3ec;
+}
 
 .fill-color10 {
-  fill: #fff; }
+  fill: #fff;
+}
 
 * {
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
 
 .viewer {
   color: #10171C;
   background: white;
   margin: 0 auto;
   padding: 15px;
-  box-shadow: 0px 0px 52px 1px rgba(0, 0, 0, 0.75);
-  width: 100%; }
+  box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.4);
+  width: 100%;
+}
 
 @media (min-width: 600px) {
   body {
-    padding: 50px; }
+    padding: 50px;
+  }
+
   .viewer {
-    border-radius: 10px;
-    width: 80%; }
+    border-radius: 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    width: 80%;
+  }
+
   .ts3_viewer.server {
-    border-radius: 10px 10px 0 0; } }
+    border-radius: 10px 10px 0 0;
+  }
+}
 
 @media (min-width: 900px) {
   .viewer {
-    width: 60%; } }
+    width: 60%;
+  }
+}
 
 @media (min-width: 1100px) {
   .viewer {
-    width: 50%; } }
+    width: 50%;
+  }
+}
 
 .viewer ul {
   margin: 0 0 0 1em;
   /* indentation */
   padding: 0;
   list-style: none;
-  position: relative; }
+  position: relative;
+}
 
 .viewer ul {
-  margin-left: 0.5em; }
+  margin-left: 0.5em;
+}
 
 /* (indentation/2) */
+
 .viewer ul:before {
   content: "";
   display: block;
@@ -5381,7 +8317,8 @@ Example showing how to change the color/size of the icons:
   top: 0;
   bottom: 0;
   left: 0;
-  border-left: 1px solid; }
+  border-left: 1px solid;
+}
 
 .viewer li {
   margin: 0;
@@ -5389,7 +8326,8 @@ Example showing how to change the color/size of the icons:
   /* indentation + .5em */
   line-height: 2em;
   /* default list item's `line-height` */
-  position: relative; }
+  position: relative;
+}
 
 .viewer li:before {
   content: "";
@@ -5403,7 +8341,8 @@ Example showing how to change the color/size of the icons:
   position: absolute;
   top: 1em;
   /* (line-height/2) */
-  left: 0; }
+  left: 0;
+}
 
 .viewer li:last-child:before {
   background: white;
@@ -5411,41 +8350,51 @@ Example showing how to change the color/size of the icons:
   height: auto;
   top: 1em;
   /* (line-height/2) */
-  bottom: 0; }
+  bottom: 0;
+}
 
 .viewer > ul:first-of-type {
-  padding-top: 20px; }
+  padding-top: 20px;
+}
 
 .ts3_viewer.server {
   margin: -15px -15px 0 -15px;
   font-size: 22px;
   padding: 15px;
   background-color: #10171C;
-  color: white; }
-  .ts3_viewer.server svg {
-    color: white;
-    margin-right: 10px; }
+  background-color: #282733;
+  color: white;
+}
+
+.ts3_viewer.server svg {
+  color: white;
+  margin-right: 10px;
+}
 
 .ts3_viewer.client {
-  font-weight: 400; }
+  font-weight: 400;
+}
 
 li svg.ts3 {
   color: #2c3e50;
-  font-size: 14px; }
+  font-size: 14px;
+}
 
 li svg.flag {
   font-size: 22px;
-  vertical-align: text-bottom; }
+  vertical-align: text-bottom;
+}
 
 .suffix .flag {
-  margin-left: 6px; }
+  margin-left: 6px;
+}
 
 .suffix.channel .ts3 {
-  margin-left: 6px; }
+  margin-left: 6px;
+}
 
 body {
-  background: url(/img/18.jpg);
+  background: url(/img/low_poly.png);
   background-size: cover;
-  font: normal 100 17px/1.0 "Roboto", Sans-Serif; }
-
-/*# sourceMappingURL=app.css.map */
+  font: normal 100 17px/1.0 'Roboto',Sans-Serif;
+}
