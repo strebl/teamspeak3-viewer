@@ -8295,6 +8295,12 @@ Example showing how to change the color/size of the icons:
   }
 }
 
+@media (min-width: 1400px) {
+  .viewer {
+    width: 40%;
+  }
+}
+
 .viewer ul {
   margin: 0 0 0 1em;
   /* indentation */

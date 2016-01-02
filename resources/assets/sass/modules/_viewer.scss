@@ -33,9 +33,15 @@
 }
 
 @media (min-width: 1100px) {
-	.viewer {
-		width: 50%;
-	}
+    .viewer {
+        width: 50%;
+    }
+}
+
+@media (min-width: 1400px) {
+    .viewer {
+        width: 40%;
+    }
 }
 
 .viewer ul {
