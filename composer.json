@@ -7,7 +7,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/strebl/ts3-php-framework.git"
+            "url": "https://github.com/strebl/ts3phpframework"
         }
     ],
     "require": {
