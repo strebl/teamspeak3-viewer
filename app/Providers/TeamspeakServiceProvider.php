@@ -2,8 +2,8 @@
 
 namespace App\Providers;
 
-use Illuminate\Support\ServiceProvider;
 use App\Teamspeak\Teamspeak;
+use Illuminate\Support\ServiceProvider;
 use TeamSpeak3;
 
 class TeamspeakServiceProvider extends ServiceProvider
