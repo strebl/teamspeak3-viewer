@@ -1,6 +1,6 @@
 <?php
 
-namespace Strebl\Teamspeak;
+namespace App\Teamspeak;
 
 use Teamspeak3_Viewer_ModernHtml;
 

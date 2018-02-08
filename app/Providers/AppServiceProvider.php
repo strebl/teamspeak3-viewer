@@ -1,6 +1,6 @@
 <?php
 
-namespace Strebl\Providers;
+namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

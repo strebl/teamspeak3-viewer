@@ -1,5 +1,0 @@
-suites:
-    main:
-        namespace: Strebl
-        psr4_prefix: Strebl
-        src_path: app
